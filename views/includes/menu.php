@@ -1,28 +1,32 @@
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0">
         <a href="index.html" class="navbar-brand d-flex align-items-center border-end px-4 px-lg-5">
-            <h2 class="m-0 text-primary">Solartec</h2>
+            <h2 class="m-0 text-primary">Asesorias web</h2>
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <a href="index.html" class="nav-item nav-link active">Home</a>
-                <a href="about.html" class="nav-item nav-link">About</a>
-                <a href="service.html" class="nav-item nav-link">Service</a>
-                <a href="project.html" class="nav-item nav-link">Project</a>
+                <a href="index.php" class="nav-item nav-link active">Home</a>
+                <a href="Quienes_somos.php" class="nav-item nav-link">Quienes somos</a>
+                <a href="contactos.php" class="nav-item nav-link">Contactos</a>
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Servicios</a>
                     <div class="dropdown-menu bg-light m-0">
-                        <a href="feature.html" class="dropdown-item">Feature</a>
-                        <a href="quote.html" class="dropdown-item">Free Quote</a>
-                        <a href="team.html" class="dropdown-item">Our Team</a>
-                        <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                        <a href="404.html" class="dropdown-item">404 Page</a>
+                        <a href="servicios.php" class="dropdown-item">Servicios</a>
+                        <a href="detalle_servicios" class="dropdown-item">Detalle de servicios</a>
                     </div>
                 </div>
-                <a href="contact.html" class="nav-item nav-link">Contact</a>
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Paquetes</a>
+                    <div class="dropdown-menu bg-light m-0">
+                        <a href="servicios_paquetes.php" class="dropdown-item">Paquetes de servicios</a>
+                        <a href="detalle_paquetes.php" class="dropdown-item">Detalle de paquetes</a>
+                        <a href="carrito.php" class="dropdown-item">Carrito de compra</a>
+                        <a href="cotizacion.php" class="dropdown-item">Cotizacion</a>
+                        <a href="compra_finalizar.php" class="dropdown-item">Finalizar compra</a>
+                    </div>
+                </div>
             </div>
-            <a href="" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Get A Quote<i class="fa fa-arrow-right ms-3"></i></a>
         </div>
     </nav>

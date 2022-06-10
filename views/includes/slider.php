@@ -1,46 +1,35 @@
-<div class="container-fluid p-0 pb-5 wow fadeIn" data-wow-delay="0.1s">
-        <div class="owl-carousel header-carousel position-relative">
-            <div class="owl-carousel-item position-relative" data-dot="<img src='img/carousel-1.jpg'>">
-                <img class="img-fluid" src="img/carousel-1.jpg" alt="">
-                <div class="owl-carousel-inner">
-                    <div class="container">
-                        <div class="row justify-content-start">
-                            <div class="col-10 col-lg-8">
-                                <h1 class="display-2 text-white animated slideInDown">Pioneers Of Solar And Renewable Energy</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-3">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
-                                <a href="" class="btn btn-primary rounded-pill py-3 px-5 animated slideInLeft">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="owl-carousel-item position-relative" data-dot="<img src='img/carousel-2.jpg'>">
-                <img class="img-fluid" src="img/carousel-2.jpg" alt="">
-                <div class="owl-carousel-inner">
-                    <div class="container">
-                        <div class="row justify-content-start">
-                            <div class="col-10 col-lg-8">
-                                <h1 class="display-2 text-white animated slideInDown">Pioneers Of Solar And Renewable Energy</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-3">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
-                                <a href="" class="btn btn-primary rounded-pill py-3 px-5 animated slideInLeft">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="owl-carousel-item position-relative" data-dot="<img src='img/carousel-3.jpg'>">
-                <img class="img-fluid" src="img/carousel-3.jpg" alt="">
-                <div class="owl-carousel-inner">
-                    <div class="container">
-                        <div class="row justify-content-start">
-                            <div class="col-10 col-lg-8">
-                                <h1 class="display-2 text-white animated slideInDown">Pioneers Of Solar And Renewable Energy</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-3">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
-                                <a href="" class="btn btn-primary rounded-pill py-3 px-5 animated slideInLeft">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+   <div class="container">
+    
+	<div class="row">
+
+		<div class="col-md-12">
+
+			<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+			  <div class="carousel-inner">
+			    	<div class="carousel-item active">
+			      		<img src="../img/carousel1.jpg" class="d-block w-100" alt="..." width="200" height="600">
+			    	</div>
+			    	<div class="carousel-item">
+			      		<img src="../img/carousel2.jpg" class="d-block w-100" alt="..." width="200" height="600">
+			    	</div>
+			    	<div class="carousel-item">
+			      		<img src="../img/carousel3.jpg" class="d-block w-100" alt="..." width="200" height="600">
+			    	</div>
+                    <div class="carousel-item">
+			      		<img src="../img/carousel4.jpg" class="d-block w-100" alt="..." width="200" height="600">
+			    	</div>
+			 	</div>
+			  	<button class="carousel-control-prev" type="button" data-bs-target="				#carouselExampleControls" data-bs-slide="prev">
+			    	<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			    	<span class="visually-hidden">Previous</span>
+			  	</button>
+			  	<button class="carousel-control-next" type="button" data-bs-target="				#carouselExampleControls" data-bs-slide="next">
+			    	<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			    	<span class="visually-hidden">Next</span>
+			  	</button>
+			</div>
+		</div>	
+	</div>
+</div><br>
+ 
+    

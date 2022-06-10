@@ -66,7 +66,39 @@
     <!-- *********************************************** -->
     <!-- ZONA DE CONTENIDO --> 
     <!-- *********************************************** -->
+    <div class="container">
+		<div class="row">
 
+			<div align="center" class="col-md-12">
+				<h1><b>Cotización</b></h1>
+			</div>
+
+		</div>
+	</div><br>
+
+    <div class="container">
+        <div class="row">
+            <div class="col md-6">
+            <form>
+            <input type="text" size ="60" maxlength="30" placeholder="Nombre y apellidos completos"><br><br>
+            <input type="text" size ="60" maxlength="12" placeholder="Número de teléfono"><br><br>
+            <input type="text" size ="60" maxlength="20" placeholder="Correo eletrónico"><br><br>
+
+            ¿Cuales son los servicios a contratar? ➡  
+            <select name="Servicios a contratar" size="5" multiple>            
+                <option>Asesoramiento para actualizar sitios web</option><br>
+                <option>Te capacitamos para dar un mejor manejo de tu sitio web</option><br>
+                <option>Le brindamos protección a tu sitio web</option><br>
+                <option>Creamos todo tipo de sitio web</option><br>    
+                <option>Enlazamos tu sitio web con aliados estrátegicos</option>
+            </select><br>
+        </div>
+        <div class="col md-6">
+            <img src="../img/asesor.jpg" class="d-block w-100" alt="..." width="300" height="350"><br>
+        </div>
+    </div>
+
+    <a href="carrito.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Enviar</a>
 
     <!-- *********************************************** -->
     <!-- FIN ZONA DE CONTENIDO --> 

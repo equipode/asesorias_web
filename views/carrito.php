@@ -3,6 +3,14 @@
 <html lang="en">
 
 <head>
+    <!-- estilo pa las tablas -->
+    <style type="text/css">
+
+        table, tr, td {
+            border: 1px solid black;
+        }
+
+    </style>
     <meta charset="utf-8">
     <title>Solartec - Renewable Energy Website Template</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -32,6 +40,7 @@
     <!-- Template Stylesheet -->
     <link href="../templates/solartec/css/style.css" rel="stylesheet">
 </head>
+
 
 <body>
     <!-- Spinner Start -->
@@ -67,6 +76,26 @@
     <!-- ZONA DE CONTENIDO --> 
     <!-- *********************************************** -->
 
+    <div class="container">
+        <div class="row">
+
+            <div align="center" class="col md-12">
+                <H1><b>Resumen de la compra</b></H1>
+            </div>
+
+         </div>
+    </div>
+    <div class="container">
+        <div class="row">
+        <div align="center" class="col md-12">
+                <table style="width: 50%">
+                    <tr>
+                        <td>Servicio</td><td>Valor</td><td>Descuento</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>    
 
     <!-- *********************************************** -->
     <!-- FIN ZONA DE CONTENIDO --> 

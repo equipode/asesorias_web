@@ -67,79 +67,100 @@
     <!-- ZONA DE CONTENIDO --> 
     <!-- *********************************************** -->
 
-<!--  BIENVENIDOS-->
-<section>
+    <!--  BIENVENIDOS-->
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-12">
+				<h1><b>Bienvenidos</b></h1>
+			</div>
+		</div>
+    </div><br>
 
-    <div class="container-fluid bg-light overflow-hidden my-5 px-lg-0">
-        <div class="container feature px-lg-0">
-            <div class="row g-0 mx-lg-0">
-                <div class="col-lg-6 feature-text py-5 wow fadeIn" data-wow-delay="0.1s">
-                    <div class="p-lg-5 ps-lg-0">
-                        <h6 class="text-primary">Why Choose Us!</h6>
-                        <h1 class="mb-4">Bienvenidos</h1>
-                        <p class="mb-4 pb-2">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo erat amet</p>
-                        <div class="row g-4">
-                            <div class="col-6">
-                                <div class="d-flex align-items-center">
-                                    <div class="btn-lg-square bg-danger rounded-circle">
-                                        <i class="fa fa-check text-white"></i>
-                                    </div>
-                                    <div class="ms-4">
-                                        <p class="mb-0">Quality</p>
-                                        <h5 class="mb-0">Services</h5>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="d-flex align-items-center">
-                                    <div class="btn-lg-square bg-primary rounded-circle">
-                                        <i class="fa fa-user-check text-white"></i>
-                                    </div>
-                                    <div class="ms-4">
-                                        <p class="mb-0">Expert</p>
-                                        <h5 class="mb-0">Workers</h5>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="d-flex align-items-center">
-                                    <div class="btn-lg-square bg-primary rounded-circle">
-                                        <i class="fa fa-drafting-compass text-white"></i>
-                                    </div>
-                                    <div class="ms-4">
-                                        <p class="mb-0">Free</p>
-                                        <h5 class="mb-0">Consultation</h5>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="d-flex align-items-center">
-                                    <div class="btn-lg-square bg-primary rounded-circle">
-                                        <i class="fa fa-headphones text-white"></i>
-                                    </div>
-                                    <div class="ms-4">
-                                        <p class="mb-0">Customer</p>
-                                        <h5 class="mb-0">Support</h5>
-                                    </div>
-                                </div>
-                            </div>
+    <section>
+        <div class="container-fluid bg-light overflow-hidden my-5 px-lg-0">
+            <div class="container feature px-lg-0">
+                <div class="row g-0 mx-lg-0">
+                    <div class="col-lg-6 feature-text py-5 wow fadeIn" data-wow-delay="0.1s">
+                        <div class="p-lg-5 ps-lg-0">
+                            <h2><b>¿Quieres crear un sitio web, pero no sabes como?</b></h2>
+                            <p class="mb-4 pb-2">Tranquilo, nosotros te ayudamos. Aquí puedes encontrar información relevante sobre como crear tu sitio, te invitamos a que revises y leas lo que tenemos para ofrecerte.</p>
+                            <a href="Quienes_somos.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Ver más</a>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-6 pe-lg-0 wow fadeIn" data-wow-delay="0.5s" style="min-height: 400px;">
+                    <div class="col-lg-6 pe-lg-0 wow fadeIn" data-wow-delay="0.5s" style="min-height: 400px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute img-fluid w-100 h-100" src="img/feature.jpg" style="object-fit: cover;" alt="">
+                        <img class="position-absolute img-fluid w-100 h-100" src="../img/design_web.jpg" style="object-fit: cover;" alt="">
                     </div>
                 </div>
             </div>
+        </div>   	
+    </section>
+
+    <div class="container">
+	    <div class="row">
+		    <div class="col-md-12">	
+			    <img src="../img/paralax.png" alt="" width="1200" height="500">
+                <a href="contactos.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Ver más</a>
+		    </div>
+	    </div>
+    </div><br>
+
+    <div class="container">
+		<div class="row">
+            <div align="center" class="col-md-12">
+			<h1><b>Suscripción</b></h1>
+		</div>
+	</div><br>
+
+    <div class="col-md-12">	
+	    <form class="row g-3">
+  	        <div class="col-md-6">
+    		    <input type="email" placeholder="Email" class="form-control" id="inputEmail4">
+  		    </div>
+		    <div class="col-md-6">
+    	        <button type="submit" class="btn btn-primary">Suscribirse</button>
+            </div>
+	    </form>
+    </div><br><br><br>
+
+    <div class="container">
+		<div class="row">
+            <div align="center" class="col-md-12">
+			    <h1><b>Testimonios</b></h1>
+		    </div>
+	    </div>
+    </div><br>
+
+    <div class="container">   
+    <div class="row">
+        <div class="col-md-12">
+            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="../img/test1.png" class="d-block w-100" alt="..." width="100" height="700">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="../img/test2.png" class="d-block w-100" alt="..." width="300" height="700">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="../img/test3.png" class="d-block w-100" alt="..." width="300" height="700">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="../img/test4.png" class="d-block w-100" alt="..." width="300" height="700">
+                    </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="				#carouselExampleControls" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="				#carouselExampleControls" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+            </div>	
         </div>
-    </div>   	
-
-</section>
-
-
-
-
+    </div><br>
     <!-- *********************************************** -->
     <!-- FIN ZONA DE CONTENIDO --> 
     <!-- *********************************************** -->

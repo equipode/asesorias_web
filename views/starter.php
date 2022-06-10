@@ -30,6 +30,9 @@
 
     <!-- Template Stylesheet -->
     <link href="../templates/solartec/css/style.css" rel="stylesheet">
+
+    <!--Icono-->
+    <link rel="icon" href="../img/logo.png">
 </head>
 
 <body>
