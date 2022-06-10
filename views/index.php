@@ -68,17 +68,25 @@
     <!-- *********************************************** -->
 
 <!--  BIENVENIDOS-->
+<div class="container">
+		<div class="row">
+
+			<div align="center" class="col-md-12">
+				<h1><b>Bienvenidos</b></h1>
+			</div>
+
+		</div>
+	</div><br>
 <section>
 
     <div class="container-fluid bg-light overflow-hidden my-5 px-lg-0">
         <div class="container feature px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-6 feature-text py-5 wow fadeIn" data-wow-delay="0.1s">
-                <h1 class="mb-4">Bienvenidos</h1>
                     <div class="p-lg-5 ps-lg-0">
-                        <h1 class="mb-4">Bienvenidos</h1>
-                        <p class="mb-4 pb-2"></p>
-                        <div class="row g-4">
+                        <h2><b>¿Quieres crear un sitio web, pero no sabes como?</b></h2>
+                        <p class="mb-4 pb-2">Tranquilo, nosotros te ayudamos. Aquí puedes encontrar información relevante sobre como crear tu sitio, te invitamos a que revises y leas lo que tenemos para ofrecerte.</p>
+                        <!--<div class="row g-4">
                             <div class="col-6">
                                 <div class="d-flex align-items-center">
                                     <div class="btn-lg-square bg-danger rounded-circle">
@@ -123,12 +131,13 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div>-->
+                        <a href="Quienes_somos.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Ver más</a>
                     </div>
                 </div>
                 <div class="col-lg-6 pe-lg-0 wow fadeIn" data-wow-delay="0.5s" style="min-height: 400px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute img-fluid w-100 h-100" src="../img/feature.jpg" style="object-fit: cover;" alt="">
+                        <img class="position-absolute img-fluid w-100 h-100" src="../img/design_web.jpg" style="object-fit: cover;" alt="">
                     </div>
                 </div>
             </div>
