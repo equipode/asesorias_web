@@ -79,8 +79,21 @@
             <input type="text" size ="15" maxlength="20" value="Tu Correo eletrónico">
 <br>
 <br>
- ¿Cuales son los servicios a contratar? 
+ ¿Cuales son los servicios a contratar? ➡  
 <select name="Servicios a contratar">            
+<option>Coche</option>
+<br>
+<option>Avión</option>
+<br>
+<option>Tren</option>
+<br>
+<option>Tren</option>
+
+<br>
+<option>Tren</option>
+
+</select>
+
 
                   </form> 
 
