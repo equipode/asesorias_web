@@ -67,6 +67,55 @@
     <!-- ZONA DE CONTENIDO --> 
     <!-- *********************************************** -->
 
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4" bg-danger >
+            Email <br>
+            <p>Contacto<br>
+            Contacto@asesorias.com </p>
+
+            <p>Ventas <br>
+            ventas@asesorias.com </p>
+
+            <p>Aspectos legales<br>
+            Legal@asesorias.com</p>
+
+
+
+            </div>
+            <div class="col-md-4" >
+
+            Nuestros Telefonos <br>
+            <P>Servicio al cliente <br>
+            410-5487 </p>
+
+            <p> Contacto <br>
+            410-6418 </p>
+
+            <p>Soporte <br>
+            410-5362 </p>
+
+            </div>
+            <div class="col-md-4" >
+             
+            <img src="../img/contacto1.png" class="d-block w-100" alt="..." width="200" height ="300">
+
+            </div>
+        </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12>
+        Dónde estamos <br>
+
+        
+         </div>
+
+     </div>
+</div>
+
+        
 
     <!-- *********************************************** -->
     <!-- FIN ZONA DE CONTENIDO --> 
