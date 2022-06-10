@@ -70,11 +70,11 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4" bg-danger >
-            Email <br>
+            <h4>Email</h4> <br>
             <p>Contacto<br>
             Contacto@asesorias.com </p>
 
-            <p>Ventas <br>
+            <p>Ventas<br>
             ventas@asesorias.com </p>
 
             <p>Aspectos legales<br>
@@ -85,7 +85,7 @@
             </div>
             <div class="col-md-4" >
 
-            Nuestros Telefonos <br>
+            <h4>Nuestros Telefonos</h4> <br>
             <P>Servicio al cliente <br>
             410-5487 </p>
 
@@ -108,24 +108,41 @@
 		<div class="row">
 
 			<div align="center" class="col-md-12">
-				<h1><b>¿Dónde estamos?</b></h1>
+				<h2><b>¿Dónde estamos?</b></h2>
                 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d489.5504140300119!2d-74.23292987137825!3d11.00833641600789!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2sco!4v1654875594246!5m2!1ses!2sco" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d489.5504140300119!2d-74.23292987137825!3d11.00833641600789!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2sco!4v1654875594246!5m2!1ses!2sco" width="1200" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 			</div>
 
 		</div>
 	</div><br>
 
-    <div class="container" >
+    <div class="container">
         <div class="row">
-            <div clas="col-md-12>
-            Escribenos <br>
-            
+            <div class="col md-6">
+
+            <p><h2> Escribenos </h2> </p>
+                <form>
+                    Nombres <br>
+                     <input type="text" size ="15" maxlength="30"  name="Nombres y apellidos completos">
+                        <br>
+                        Email
+                        <br>
+                     <input type="text" size ="15" maxlength="12" >
+                        <br>
+                        Telefono
+                        <br>
+                     <input type="text" size ="15" maxlength="20" >
+                        <br>
+                        Mensaje 
+                        <br>
+                     <input type="text" size ="15" maxlength="250" > <br> <br>
+                     <input type="submit" value="Aceptar">
+
+                </form> 
             </div>
         </div>
     </div>
-
-
+            
         
 
     <!-- *********************************************** -->
