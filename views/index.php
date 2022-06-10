@@ -76,7 +76,12 @@
 			</div>
 
 		</div>
+
 	</div><br>
+
+</div><br>
+
+
 
     <section>
         <div class="container-fluid bg-light overflow-hidden my-5 px-lg-0">
@@ -100,7 +105,75 @@
 
 
 
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">	
+			<img src="../img/paralax.png" alt="" width="1200" height="500">
+            <a href="contactos.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Ver más</a>
+		</div>
+	</div>
+</div><br>
 
+<div class="container">
+		<div class="row">
+            <div align="center" class="col-md-12">
+			<h1><b>Suscripción</b></h1>
+		</div>
+	</div>
+</div><br>
+
+<div class="col-md-12">	
+	<form class="row g-3">
+  	    <div class="col-md-6">
+    		<input type="email" placeholder="Email" class="form-control" id="inputEmail4">
+  		</div>
+		<div class="col-md-6">
+    	    <button type="submit" class="btn btn-primary">Suscribirse</button>
+        </div>
+	</form>
+</div><br><br><br>
+
+<div class="container">
+		<div class="row">
+            <div align="center" class="col-md-12">
+			<h1><b>Testimonios</b></h1>
+		</div>
+	</div>
+</div><br>
+
+<div class="container">
+    
+<div class="row">
+
+	<div class="col-md-12">
+
+		<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+			<div class="carousel-inner">
+			    <div class="carousel-item active">
+			      	<img src="../img/test1.png" class="d-block w-100" alt="..." width="100" height="700">
+			    </div>
+			    <div class="carousel-item">
+			      	<img src="../img/test2.png" class="d-block w-100" alt="..." width="300" height="700">
+			    </div>
+			    <div class="carousel-item">
+			      	<img src="../img/test3.png" class="d-block w-100" alt="..." width="300" height="700">
+			    </div>
+                <div class="carousel-item">
+			      	<img src="../img/test4.png" class="d-block w-100" alt="..." width="300" height="700">
+			    </div>
+			 	</div>
+			  	<button class="carousel-control-prev" type="button" data-bs-target="				#carouselExampleControls" data-bs-slide="prev">
+			    	<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			    	<span class="visually-hidden">Previous</span>
+			  	</button>
+			  	<button class="carousel-control-next" type="button" data-bs-target="				#carouselExampleControls" data-bs-slide="next">
+			    	<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			    	<span class="visually-hidden">Next</span>
+			  	</button>
+			</div>
+		</div>	
+	</div>
+</div><br>
     <!-- *********************************************** -->
     <!-- FIN ZONA DE CONTENIDO --> 
     <!-- *********************************************** -->
