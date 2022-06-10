@@ -66,6 +66,29 @@
     <!-- *********************************************** -->
     <!-- ZONA DE CONTENIDO --> 
     <!-- *********************************************** -->
+    <div class="container">
+        <div class="row">
+            <div class="col md-6">
+            <form>
+            <input type="text" size ="15" maxlength="30" value="Nombre y apellidos completos" name="Nombres y apellidos completos">
+<br>
+<br>
+<input type="text" size ="15" maxlength="12" value="Número de teléfono">
+<br>
+<br>
+            <input type="text" size ="15" maxlength="20" value="Tu Correo eletrónico">
+<br>
+<br>
+ ¿Cuales son los servicios a contratar? 
+<select name="Servicios a contratar">            
+
+                  </form> 
+
+        </div>
+            <div class="col md-6">
+               imagen
+            </div>
+</div>
 
 
     <!-- *********************************************** -->
