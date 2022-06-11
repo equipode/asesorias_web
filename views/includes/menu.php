@@ -1,3 +1,12 @@
+    <!-- estilo pa las tablas de la pagina carrito.php -->
+<style type="text/css">
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+</style>
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0">
         <a href="index.html" class="navbar-brand d-flex align-items-center border-end px-4 px-lg-5">
             <h2 class="m-0 text-primary">Asesorias web</h2>
