@@ -67,6 +67,77 @@
     <!-- *********************************************** -->
     <!-- ZONA DE CONTENIDO --> 
     <!-- *********************************************** -->
+    
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-6">
+                <h1><b>Sitios web básicos</b></h1>
+                <h2><b>Resumen</b></h2>
+			</div>
+            <div align="center" class="col-md-6">
+                <h1><b>$ 400.000</b></h1>
+                <h1><b>CONTRATAR</b></h1> 
+                <h1><b>COTIZAR</b></h1>
+			</div>
+		</div>
+    </div><br>
+
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-6">
+                <h1><b>CARACTERISTICAS</b></h1>
+			</div>
+            <div align="center" class="col-md-6">
+                <h1><b>VIDEO EXPLICATIVO</b></h1>
+			</div>
+		</div>
+    </div><br>
+
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-6">
+                <h1><b>TESTIMONIO</b></h1>
+			</div>
+		</div>
+    </div><br>
+
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-12">
+				<h1><b>COMENTARIOS</b></h1>
+			</div>
+		</div>
+    </div><br>
+     
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-6">
+                <h1><b>NOMBRE1</b></h1>
+			</div>
+            <div align="center" class="col-md-6">
+                <h1><b>NOMBRE2</b></h1>
+			</div>
+            <div align="center" class="col-md-6">
+                <h1><b>NOMBRE3</b></h1>
+			</div>
+		</div>
+    </div><br> 
+    
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-6">
+                <h1><b>NOMBRE4</b></h1>
+			</div>
+            <div align="center" class="col-md-6">
+                <h1><b>NOMBRE5</b></h1>
+			</div>
+            <div align="center" class="col-md-6">
+                <h1><b>NOMBRE6</b></h1>
+			</div>
+		</div>
+    </div><br>
+
+
 
 
     <!-- *********************************************** -->
