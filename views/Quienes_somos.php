@@ -68,7 +68,61 @@
     <!-- ZONA DE CONTENIDO --> 
     <!-- *********************************************** -->
 
-    
+    <!-- Quienes somos-->
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                
+            </div>
+            <div class="col-md-6">
+                
+            </div>
+        </div>
+    </div>
+
+    <!-- Mision y Vision-->
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                
+            </div>
+            <div class="col-md-6">
+                
+            </div>
+        </div>
+    </div>
+
+    <!--Nuestro equipo-->
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                
+            </div>
+        </div>
+    </div>
+
+    <!-- Valores corporativos-->
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                
+            </div>
+            <div class="col-md-6">
+                
+            </div>
+            <div class="col-md-6">
+                
+            </div>
+            <div class="col-md-6">
+                
+            </div>
+        </div>
+    </div>
+
 
     <!-- *********************************************** -->
     <!-- FIN ZONA DE CONTENIDO --> 
