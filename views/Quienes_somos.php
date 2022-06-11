@@ -111,22 +111,23 @@
             <div class="col-md-4">
             <img src="../img/dayanna.jpeg" class="d-block w-100" alt="..." width="100" height ="350"><br>
             <h6>Gerente General</h6>
- 
-            Dayanna Montes Gómez
+            Dayanna Montes Gómez<br>
+
             </div>
             <div class="col-md-4">
             <img src="../img/juan.jpeg" class="d-block w-100" alt="..." width="100" height ="350"><br>
             <h6>Gerente Financiero</h6>
-            Juan Camilo Orozco Carmona 
+            Juan Camilo Orozco Carmona <br>
 
             </div>
             <div class="col-md-4">
             <img src="../img/diego.jpeg" class="d-block w-100" alt="..." width="100" height ="350"><br>
             <h6>Gerente Comercial</h6> 
-            Diego Andres Fernandez Mazilli
+            Diego Andres Fernandez Mazilli <br>
 
 
             </div>
+            <br>
         </div>
         <div class="row">
             <div class="col-md-4">
@@ -150,11 +151,13 @@
         </div>
     </div>
 
+    <br>
+
     <!-- Valores corporativos-->
 
     <div class="container">
         <div class="row">
-            <h3 align="center">Valores Corporativos</h3><br><br>
+            <h3 align="center">Valores Corporativos</h3><br><br><br>
             <div class="col-md-3" align="center">
             <img src="../img/valor9.png" class="d-block w-15" alt="..." width="50" height ="40"><br>
             <h6>Autenticidad</h6>
