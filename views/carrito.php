@@ -77,6 +77,7 @@
 
          </div>
     </div>
+
     <div class="container">
         <div class="row">
         <div align="center" class="col md-12">
@@ -94,7 +95,33 @@
                 </table>
             </div>
         </div>
-    </div>    
+    </div> <br>  
+    
+    <div class="container">
+        <div class="row">
+            <div class="col md-6">
+                <form name="datos">
+                    <label for="N">Cupon de descuento</label><br><br>
+                    <input type="text" id="N" name="Nombre" size="30">
+                </form><br><br>
+
+                <label>Metodos de envio</label><br><br>
+                <select name="metodo">
+                    <option value="1">Correo</option>
+                    <option value="2">whatsApp</option>
+                    <option value="3">Telegram</option>
+                </select>
+            </div>
+
+            <div class="col md-6">
+            <form name="datos">
+                    <label for="N">Total:</label>
+                    <input type="double" id="N" name="Nombre" size="10">
+                </form><br><br>
+                <a class="btn btn-primary" href="compra_finalizar.php" role="button">Finalizar compra</a>
+            </div>
+        </div>
+    </div>
 
     <!-- *********************************************** -->
     <!-- FIN ZONA DE CONTENIDO --> 
