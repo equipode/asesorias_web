@@ -76,44 +76,97 @@
          </div>
     </div>
 
+    <!-- Tabla de los datos de la compra -->
+
+    <table style="width: 50%" align="center">
+                    <tr>
+                        <th><FONT COLOR="black">Servicio</FONT></th><th><FONT COLOR="black">Valor</FONT></th><th><FONT COLOR="black">Descuento</FONT></th>
+                    </tr>
+                    <tr>
+                        <td>
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        </td>
+                        <td>
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        </td>
+                        <td>
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        </td>
+                    </tr>  
+                    
+                    <tr>
+                        <td>
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        </td>
+                        <td>
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        </td>
+                        <td>
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        </td>
+                        <td>
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        </td>
+                        <td>
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        </td>
+                    </tr>                    
+
+                </table><br><br>
+
     <div class="container">
         <div class="row">
             <div class="col md-6">
                 <form name="datos">
-                    <label for="N">Cupon de descuento</label><br>
+                    <label for="N"><FONT COLOR="black"><b>Cupon de descuento</b></FONT></label><br>
                     <input type="text" id="N" name="Nombre" size="30">
                 </form><br>
 
-                <b>Datos personales</b><br><br>
+                <b><FONT COLOR="black"><b>Datos personales</b></FONT></b><br><br>
                 <form name="Nombre">
-                    <label for="N">Nombre</label><br>
+                    <label for="N"><FONT COLOR="black">Nombre</FONT></label><br>
                     <input type="text" id="N" name="Nombre" size="30">
                 </form><br>
 
                 <form name="email">
-                    <label for="N">Email</label><br>
+                    <label for="N"><FONT COLOR="black">Email</FONT></label><br>
                     <input type="text" id="N" name="email" size="30">
                 </form><br>
 
                 <form name="tel">
-                    <label for="N">Telefono</label><br>
+                    <label for="N"><FONT COLOR="black">Teléfono</FONT></label><br>
                     <input type="text" id="N" name="tel" size="30">
                 </form><br>
 
                 <form name="dirrecion">
-                    <label for="N">Dirreción</label><br>
+                    <label for="N"><FONT COLOR="black">Dirrecion</FONT></label><br>
                     <input type="text" id="N" name="dirrecion" size="30">
                 </form><br>
             </div>
             
             <div class="col md-6">
             <form name="total">
-                    <label for="N">Total:</label>
+                    <label for="N"><FONT COLOR="black">Total:</FONT></label>
                     <input type="double" id="N" name="total" size="10">
             </form><br>
 
             <form name="Datos_envio">
-                    <label for="N">Datos del envio</label><br><br>
+                    <label for="N"><FONT COLOR="black"><b>Datos del envio</b></FONT></label><br><br>
                     <input type="double" id="N" name="total" size="30"><br><br>
                     <input type="double" id="N" name="total" size="30"><br><br>
                     <input type="double" id="N" name="total" size="30"><br><br>
@@ -123,11 +176,13 @@
         </div>
     </div><br>
 
+   <!-- Metodos de pago -->
+
     <div class="container">
        <div class="row">
         <div class="col md-6">
        <form name="Datos_envio">
-                    <label for="N"><p><b>Metodos de pago</b></p></label><br><br>
+                    <label for="N"><FONT COLOR="black"><b>Metodos de pago</b></FONT></label><br><br>
                     <a class="btn btn-primary" href="#" role="button">Daviplata</a><br><br>
                     <a class="btn btn-primary" href="#" role="button">Davivienda</a>
             </form><br>

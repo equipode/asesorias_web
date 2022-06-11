@@ -79,20 +79,68 @@
          </div>
     </div>
 
+    <!-- Resumen de la compra -->
+
     <div class="container">
         <div class="row">
         <div align="center" class="col md-12">
                 <table style="width: 50%">
                     <tr>
-                        <th>Servicio</th><th>Valor</th><th>Descuento</th>
+                        <th>
+                        <FONT COLOR="black"><b>Servicio</b></FONT>
+                        </th>
+                        <th>
+                            <FONT COLOR="black"><b>Valor</b></FONT>
+                        </th>
+                        <th>
+                            <FONT COLOR="black"><b>Descuento</b></FONT>
+                       </th>
                     </tr>
                     <tr>
-                        <td>Servicio</td><td>Valor</td><td>Descuento</td>
-                    </tr>                    <tr>
-                        <td>Servicio</td><td>Valor</td><td>Descuento</td>
-                    </tr>                    <tr>
-                        <td>Servicio</td><td>Valor</td><td>Descuento</td>
+                        <td>
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        </td>
+                        <td>
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        </td>
+                        <td>
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        </td>
+                    </tr>  
+                    
+                    <tr>
+                        <td>
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        </td>
+                        <td>
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        </td>
+                        <td>
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        </td>
                     </tr>
+                    
+                    <tr>
+                        <td>
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        </td>
+                        <td>
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        </td>
+                        <td>
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        </td>
+                    </tr>                    
+
                 </table>
             </div>
         </div>
@@ -102,11 +150,11 @@
         <div class="row">
             <div class="col md-6">
                 <form name="datos">
-                    <label for="N">Cupon de descuento</label><br><br>
+                    <label for="N"><FONT COLOR="black">Cupon de descuento</FONT></label><br><br>
                     <input type="text" id="N" name="Nombre" size="30">
                 </form><br><br>
 
-                <label>Metodos de envio</label><br><br>
+                <label><FONT COLOR="black">Metodos de envio</FONT></label><br><br>
                 <select name="metodo">
                     <option value="1">Correo</option>
                     <option value="2">whatsApp</option>
@@ -116,7 +164,7 @@
 
             <div class="col md-6">
             <form name="datos">
-                    <label for="N">Total:</label>
+                    <label for="N"><FONT COLOR="black">Total:</FONT></label>
                     <input type="double" id="N" name="Nombre" size="10">
                 </form><br><br>
                 <a class="btn btn-primary" href="compra_finalizar.php" role="button">Finalizar compra</a>
