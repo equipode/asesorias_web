@@ -66,7 +66,85 @@
     <!-- *********************************************** -->
     <!-- ZONA DE CONTENIDO --> 
     <!-- *********************************************** -->
+   
+     <div class="container">
+        <div class="row">
+          <div class="col md-12">
+            <h1 align="center">Datos de la compra</h1><br><br>
+          </div>
+         </div>
+    </div>
 
+    <div class="container">
+        <div class="row">
+            <div class="col md-6">
+                <form name="datos">
+                    <label for="N">Cupon de descuento</label><br>
+                    <input type="text" id="N" name="Nombre" size="30">
+                </form><br>
+
+                <b>Datos personales</b><br><br>
+                <form name="Nombre">
+                    <label for="N">Nombre</label><br>
+                    <input type="text" id="N" name="Nombre" size="30">
+                </form><br>
+
+                <form name="email">
+                    <label for="N">Email</label><br>
+                    <input type="text" id="N" name="email" size="30">
+                </form><br>
+
+                <form name="tel">
+                    <label for="N">Telefono</label><br>
+                    <input type="text" id="N" name="tel" size="30">
+                </form><br>
+
+                <form name="dirrecion">
+                    <label for="N">Dirreción</label><br>
+                    <input type="text" id="N" name="dirrecion" size="30">
+                </form><br>
+            </div>
+            
+            <div class="col md-6">
+            <form name="total">
+                    <label for="N">Total:</label>
+                    <input type="double" id="N" name="total" size="10">
+            </form><br>
+
+            <form name="Datos_envio">
+                    <label for="N">Datos del envio</label><br><br>
+                    <input type="double" id="N" name="total" size="30"><br><br>
+                    <input type="double" id="N" name="total" size="30"><br><br>
+                    <input type="double" id="N" name="total" size="30"><br><br>
+                    <input type="double" id="N" name="total" size="30"><br><br>
+            </form>
+            </div>
+        </div>
+    </div><br>
+
+    <div class="container">
+       <div class="row">
+        <div class="col md-6">
+       <form name="Datos_envio">
+                    <label for="N"><p><b>Metodos de pago</b></p></label><br><br>
+                    <a class="btn btn-primary" href="#" role="button">Daviplata</a><br><br>
+                    <a class="btn btn-primary" href="#" role="button">Davivienda</a>
+            </form><br>
+                
+            </div>
+
+            <div class="col md-6">
+       <form name="Datos_envio">
+                    <label for="N"></label><br><br><br>
+                    <a class="btn btn-primary" href="#" role="button">Bancolombia</a><br><br>
+                    <a class="btn btn-primary" href="#" role="button">PayPal</a><br><br>
+                    <a class="btn btn-primary" href="#" role="button">Pagar</a>
+            </form><br>
+                
+            </div>
+
+       </div>
+    </div>
 
     <!-- *********************************************** -->
     <!-- FIN ZONA DE CONTENIDO --> 
