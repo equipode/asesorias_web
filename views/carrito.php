@@ -3,14 +3,8 @@
 <html lang="en">
 
 <head>
-    <!-- estilo pa las tablas -->
-    <style type="text/css">
 
-        table, tr, td {
-            border: 1px solid black;
-        }
 
-    </style>
     <meta charset="utf-8">
     <title>Solartec - Renewable Energy Website Template</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -90,6 +84,13 @@
         <div align="center" class="col md-12">
                 <table style="width: 50%">
                     <tr>
+                        <th>Servicio</th><th>Valor</th><th>Descuento</th>
+                    </tr>
+                    <tr>
+                        <td>Servicio</td><td>Valor</td><td>Descuento</td>
+                    </tr>                    <tr>
+                        <td>Servicio</td><td>Valor</td><td>Descuento</td>
+                    </tr>                    <tr>
                         <td>Servicio</td><td>Valor</td><td>Descuento</td>
                     </tr>
                 </table>
