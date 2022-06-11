@@ -78,15 +78,15 @@
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-4">
-				<h1><b>SERVICIOS</b></h1>
+				<h1><b>Asesoramiento para actualizar Sitios Web</b></h1>
 			</div>
 
             <div align="center" class="col-md-4">
-				<h1><b>SERVICIOS</b></h1>
+				<h1><b>Te capacitamos para dar un mejor manejo de tu sitio web</b></h1>
 			</div>
 
             <div align="center" class="col-md-4">
-				<h1><b>SERVICIOS</b></h1>
+				<h1><b>Le brindamos proteccion a tu sitio Web</b></h1>
 			</div>
 
 		</div>
@@ -95,11 +95,11 @@
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-6">
-				<h1><b>SERVICIOS</b></h1>
+				<h1><b>Enlazamos tu sitio web con aliados estrategicos</b></h1>
 			</div>
 
             <div align="center" class="col-md-6">
-				<h1><b>SERVICIOS</b></h1>
+				<h1><b>Creamos todo tipo de sitios Web</b></h1>
 			</div>
 		</div>
     </div><br>
