@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Solartec - Renewable Energy Website Template</title>
+    <title>Servicios-Detalles</title>
     <link rel="icon" href="../img/logo.png">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
@@ -67,7 +67,139 @@
     <!-- *********************************************** -->
     <!-- ZONA DE CONTENIDO --> 
     <!-- *********************************************** -->
+    
+    <!-- detalle_costo_1 -->
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-6">
+            <img src="../img/asesoramiento.jpg" class="d-block w-100" alt="..." width="200" height ="300">
+			</div>
 
+            <div align="center" class="col-md-6">
+				<h1><b>Asesoramiento para actualizar Sitios Web</b></h1><br>
+                <a class="btn btn-primary" href="cotizacion.php" role="button">Contratar</a>
+			</div>
+
+		</div>
+    </div><br>
+
+
+ <!-- detalle_costo_2 -->
+         <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-6">
+            <img src="../img/2daimagen.png" class="d-block w-100" alt="..." width="200" height ="300">
+			</div>
+
+            <div align="center" class="col-md-6">
+				<h1><b>Te capacitamos para dar un mejor manejo de tu sitio web</b></h1><br>
+                <a class="btn btn-primary" href="cotizacion.php" role="button">Contratar</a>
+			</div>
+
+		</div>
+    </div><br>
+
+     <!-- detalle_costo_3 -->
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-6">
+            <img src="../img/proteger sitio web.jpg" class="d-block w-100" alt="..." width="200" height ="300">
+			</div>
+
+            <div align="center" class="col-md-6">
+				<h1><b>Le brindamos proteccion a tu sitio Web</b></h1><br>
+                <a class="btn btn-primary" href="cotizacion.php" role="button">Contratar</a>
+			</div>
+
+		</div>
+    </div><br>
+
+     <!-- detalle_costo_4 -->
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-6">
+            <img src="../img/aliados estrategicos.png" class="d-block w-100" alt="..." width="200" height ="300">
+			</div>
+
+            <div align="center" class="col-md-6">
+				<h1><b>Enlazamos tu sitio web con aliados estrategicos</b></h1><br>
+                <a class="btn btn-primary" href="cotizacion.php" role="button">Contratar</a>
+			</div>
+
+		</div>
+    </div><br>
+
+     <!-- detalle_costo_5 -->
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-6">
+            <img src="../img/tipos de sitios web.png" class="d-block w-100" alt="..." width="200" height ="300">
+			</div>
+
+            <div align="center" class="col-md-6">
+				<h1><b>Creamos todo tipo de sitios Web</b></h1><br>
+                <a class="btn btn-primary" href="cotizacion.php" role="button">Contratar</a>
+			</div>
+
+		</div>
+    </div><br>
+
+
+
+ <!-- Caracteristicas -->
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-6">
+				<h1><b>Caracteristicas</b></h1><br>
+
+			</div>
+<!-- Video -->
+            <div class="col-md-6">
+            <iframe width="640" height="360" src="https://www.youtube.com/embed/0EO6Cmf5EXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+		</div>
+    </div><br>
+
+    <div class="container">
+		<div class="row">
+			<div  class="col-md-12">
+            <div class="container">
+    
+
+<!--Slaider-->
+        <div class="container">   
+    <div class="row">
+        <div class="col-md-12">
+            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="../img/test1.png" class="d-block w-100" alt="..." width="100" height="700">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="../img/test2.png" class="d-block w-100" alt="..." width="300" height="700">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="../img/test3.png" class="d-block w-100" alt="..." width="300" height="700">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="../img/test4.png" class="d-block w-100" alt="..." width="300" height="700">
+                    </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="				#carouselExampleControls" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="				#carouselExampleControls" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+            </div>	
+        </div>
+    </div><br>
+	
+
+    
 
     <!-- *********************************************** -->
     <!-- FIN ZONA DE CONTENIDO --> 
