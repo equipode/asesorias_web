@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Solartec - Renewable Energy Website Template</title>
+    <title>Quienes Somos</title>
     <link rel="icon" href="../img/logo.png">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
@@ -71,12 +71,14 @@
     <!-- Quienes somos-->
 
     <div class="container">
+        <h3 align="center">¿Quienes Somos?</h3>
         <div class="row">
             <div class="col-md-6">
-                
+               <br><h6 align="justify"> Somos una empresa especializada en desarrollo y creación de sitios web, comprometida con los valores corporativos 
+                y calidad de nuestros servicios, los cuales ofrecemos atraves de paquetes personalizados y a costos razonables.</h6>
             </div>
             <div class="col-md-6">
-                
+            <img src="../img/img-quienes-somos-2.png" class="d-block w-100" alt="..." width="200" height ="300">
             </div>
         </div>
     </div>
@@ -86,41 +88,126 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                
+            <h3>Misión</h3><br>
+            <h6 align="justify">Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto ficticio estándar de la industria desde el año 1500, cuando un impresor desconocido tomó una galera de tipos y la codificó para hacer un libro de muestras tipográficas. Ha sobrevivido no solo cinco siglos, sino también el salto a la composición tipográfica electrónica, permaneciendo esencialmente sin cambios. Se popularizó en la década de 1960 con el lanzamiento de hojas de Letraset que contenían pasajes de Lorem Ipsum y, más recientemente, con software de autoedición como Aldus PageMaker, que incluía versiones de Lorem Ipsum.</h6>
+
+
             </div>
             <div class="col-md-6">
-                
+            <h3>Visión</h3><br>
+            <h6 align="justify">Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando mire su diseño. El punto de usar Lorem Ipsum es que tiene una distribución de letras más o menos normal, a diferencia de usar 'Contenido aquí, contenido aquí', lo que hace que parezca un inglés legible. Muchos paquetes de autoedición y editores de páginas web ahora usan Lorem Ipsum como su modelo de texto predeterminado, y una búsqueda de 'lorem ipsum' descubrirá muchos sitios web que aún están en su infancia. Varias versiones han evolucionado a lo largo de los años, a veces por accidente, a veces a propósito (humor inyectado y cosas por el estilo).</H6>
+
             </div>
         </div>
     </div>
+
+    <br>
 
     <!--Nuestro equipo-->
 
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
-                
+            <h3 align="center">Nuestro Equipo</h3><br>
+            <div class="col-md-4">
+            <img src="../img/dayanna.jpeg" class="d-block w-100" alt="..." width="100" height ="350"><br>
+            <h6>Gerente General</h6>
+            Dayanna Montes Gómez<br>
+
+            </div>
+            <div class="col-md-4">
+            <img src="../img/juan.jpeg" class="d-block w-100" alt="..." width="100" height ="350"><br>
+            <h6>Gerente Financiero</h6>
+            Juan Camilo Orozco Carmona <br>
+
+            </div>
+            <div class="col-md-4">
+            <img src="../img/diego.jpeg" class="d-block w-100" alt="..." width="100" height ="350"><br>
+            <h6>Gerente Comercial</h6> 
+            Diego Andres Fernandez Mazilli <br>
+
+
+            </div>
+            <br>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+            <img src="../img/robert.jpeg" class="d-block w-100" alt="..." width="100" height ="350">
+            <h6>Gerente de Marketing </h6>
+            Robert Junior Lopez Oviedo
+
+            </div>
+            <div class="col-md-4">
+            <img src="../img/santiago.jpeg" class="d-block w-100" alt="..." width="100" height ="350">
+            <h6>Gerente de Operaciones</h6> 
+            Santiago Everardo Orozco Carmona
+
+            </div>
+            <div class="col-md-4">
+            <img src="../img/ingrid.jpeg" class="d-block w-100" alt="..." width="100" height ="350">
+            <h6>Gerente Administrativo</h6> 
+            Ingrid Carolina Montaño Guerrero
+
             </div>
         </div>
     </div>
+
+    <br>
 
     <!-- Valores corporativos-->
 
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
-                
+            <h3 align="center">Valores Corporativos</h3><br><br><br>
+            <div class="col-md-3" align="center">
+            <img src="../img/valor9.png" class="d-block w-15" alt="..." width="50" height ="40"><br>
+            <h6>Autenticidad</h6>
+            <p align="justify">Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando mire su diseño.</p>
+            
             </div>
-            <div class="col-md-6">
-                
+            <div class="col-md-3" align="center">
+            <img src="../img/valor2.png" class="d-block w-15" alt="..." width="50" height ="40"><br>
+            <h6>Compromiso</h6>
+            <p align="justify"> Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando mire su diseño.</p>
+
             </div>
-            <div class="col-md-6">
-                
+            <div class="col-md-3" align="center">
+            <img src="../img/valor3.jpg" class="d-block w-15" alt="..." width="50" height ="40"><br>
+            <h6>Autenticidad</h6>
+            <p align="justify">Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando mire su diseño.</p>
+
             </div>
-            <div class="col-md-6">
-                
+            <div class="col-md-3" align="center">
+            <img src="../img/valor4.png" class="d-block w-15" alt="..." width="50" height ="40"><br>
+            <h6>Confianza</h6>
+            <p align="justify">Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando mire su diseño.</p>
+
             </div>
         </div>
+            <div class="row">
+            <div class="col-md-3" align="center">
+            <img src="../img/valor5.png" class="d-block w-15" alt="..." width="50" height ="40"><br>
+            <h6>Transparencia</h6>
+            <p align="justify">Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando mire su diseño.</p>
+
+            </div>
+            <div class="col-md-3" align="center">
+            <img src="../img/valor6.png" class="d-block w-15" alt="..." width="50" height ="40"><br>
+            <h6>Integridad</h6>
+            <p align="justify">Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando mire su diseño.</p>
+
+            </div>
+            <div class="col-md-3" align="center">
+            <img src="../img/valor7.png" class="d-block w-15" alt="..." width="50" height ="40"><br>
+            <h6>Innovación</h6>
+            <p align="justify">Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando mire su diseño.</p>
+
+            </div>
+            <div class="col-md-3" align="center">
+            <img src="../img/valor8.png" class="d-block w-15" alt="..." width="50" height ="40"><br>
+            <h6>Pasión</h6>
+            <p align="justify">Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando mire su diseño.</p>
+
+            </div>
     </div>
 
 

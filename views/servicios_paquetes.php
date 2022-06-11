@@ -68,6 +68,77 @@
     <!-- ZONA DE CONTENIDO --> 
     <!-- *********************************************** -->
 
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-12">
+				<h1><b>Paquetes de servicios</b></h1>
+			</div>
+		</div>
+    </div><br>
+
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-4">
+            <img src="../img/basico.png" class="d-block w-100" alt="..." width="300" height="700">
+            <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
+			</div>
+            <div align="center" class="col-md-4">
+            <img src="../img/popular.png" class="d-block w-100" alt="..." width="300" height="700">
+            <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
+			</div>
+            <div align="center" class="col-md-4">
+            <img src="../img/modern.png" class="d-block w-100" alt="..." width="300" height="700">
+            <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
+			</div>
+		</div>
+    </div><br>
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-4">
+            <img src="../img/premium.png" class="d-block w-100" alt="..." width="300" height="700">
+            <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
+			</div>
+            <div align="center" class="col-md-4">
+            <img src="../img/dinamico.png" class="d-block w-100" alt="..." width="300" height="700">
+            <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
+			</div>
+            <div align="center" class="col-md-4">
+            <img src="../img/business.png" class="d-block w-100" alt="..." width="300" height="700">
+            <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
+			</div>
+		</div>
+    </div><br><br>
+
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-12">
+				<h1><b>Condiciones</b></h1>
+			</div>
+		</div>
+    </div><br>
+
+    <div class="container">
+		<div class="row">
+			<div class="col-md-6">
+                <ul>
+                    <li>Debe ser mayor de 18 años</li>
+                    <li>Debe hacer un adelanto del 30% para comenzar a desarrollar el sitio web</li>
+                    <li>Debe digitar sus datos personales</li>
+                    <li>El desarrollo de cada sitio web se tardara dependiendo la complejidad deseada</li>
+                    <li>En caso de agregar detalles adicionales a las paginas avisar con anticipacion y debe hacer otro deposito además del acordado</li>
+                </ul>
+			</div>
+            <div class="col-md-6">
+                <ul>
+                    <li>Elije tus métodos de pagos y tarifas de envios </li>
+                    <li>Se debe hacer un contrato para empezar el desarrollo del sitio web</li>
+                    <li>El uso de este sitio web y sus servicios, indica que aceptas los Términos de Uso</li>
+                    <li>Tus datos de indentificacion estaran protegidos</li>
+                    <li>Solo tú eres responsable de tomar la decisión para que tu negocio cresca sin límites </li>
+                </ul>
+			</div>
+        </div>
+    </div>
 
     <!-- *********************************************** -->
     <!-- FIN ZONA DE CONTENIDO --> 
