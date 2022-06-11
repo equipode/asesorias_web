@@ -1,4 +1,4 @@
-    <!-- estilo pa las tablas de la pagina carrito.php -->
+<!--  estilo pa las tablas de la pagina carrito.php -->
 <style type="text/css">
 
 table, th, td {
@@ -23,7 +23,7 @@ table, th, td {
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Servicios</a>
                     <div class="dropdown-menu bg-light m-0">
                         <a href="servicios.php" class="dropdown-item">Servicios</a>
-                        <a href="detalle_servicios" class="dropdown-item">Detalle de servicios</a>
+                        <a href="detalle_servicios.php" class="dropdown-item">Detalle de servicios</a>
                     </div>
                 </div>
                 <div class="nav-item dropdown">
