@@ -1,9 +1,6 @@
-   <div class="container">
-    
+<div class="container">
 	<div class="row">
-
 		<div class="col-md-12">
-
 			<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
 			  <div class="carousel-inner">
 			    	<div class="carousel-item active">
@@ -30,6 +27,6 @@
 			</div>
 		</div>	
 	</div>
-</div><br>
+</div><br><br>
  
     

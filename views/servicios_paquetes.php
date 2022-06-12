@@ -80,15 +80,15 @@
 		<div class="row">
 			<div align="center" class="col-md-4">
             <img src="../img/basico.png" class="d-block w-100" alt="..." width="300" height="700">
-            <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
+            <a href="detalle_paquetes.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
 			</div>
             <div align="center" class="col-md-4">
             <img src="../img/popular.png" class="d-block w-100" alt="..." width="300" height="700">
-            <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
+            <a href="detalle_paquetes.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
 			</div>
             <div align="center" class="col-md-4">
             <img src="../img/modern.png" class="d-block w-100" alt="..." width="300" height="700">
-            <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
+            <a href="detalle_paquetes.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
 			</div>
 		</div>
     </div><br>
@@ -96,15 +96,15 @@
 		<div class="row">
 			<div align="center" class="col-md-4">
             <img src="../img/premium.png" class="d-block w-100" alt="..." width="300" height="700">
-            <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
+            <a href="detalle_paquetes.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
 			</div>
             <div align="center" class="col-md-4">
             <img src="../img/dinamico.png" class="d-block w-100" alt="..." width="300" height="700">
-            <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
+            <a href="detalle_paquetes.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
 			</div>
             <div align="center" class="col-md-4">
             <img src="../img/business.png" class="d-block w-100" alt="..." width="300" height="700">
-            <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
+            <a href="detalle_paquetes.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
 			</div>
 		</div>
     </div><br><br>

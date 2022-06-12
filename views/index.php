@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Solartec - Renewable Energy Website Template</title>
+    <title>Home</title>
     <link rel="icon" href="../img/logo.png">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
@@ -84,7 +84,7 @@
                     <div class="col-lg-6 feature-text py-5 wow fadeIn" data-wow-delay="0.1s">
                         <div class="p-lg-5 ps-lg-0">
                             <h2><b>¿Quieres crear un sitio web, pero no sabes como?</b></h2>
-                            <p class="mb-4 pb-2">Tranquilo, nosotros te ayudamos. Aquí puedes encontrar información relevante sobre como crear tu sitio, te invitamos a que revises y leas lo que tenemos para ofrecerte.</p>
+                            <p align="justify" class="mb-4 pb-2">Tranquilo, nosotros te ayudamos. Aquí puedes encontrar información relevante sobre como crear tu sitio, te invitamos a que revises y leas lo que tenemos para ofrecerte.</p>
                             <a href="Quienes_somos.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Ver más</a>
                         </div>
                     </div>
@@ -97,22 +97,76 @@
         </div>   	
     </section>
 
-    <div class="container">
-	    <div class="row">
-		    <div class="col-md-12">	
-			    <img src="../img/paralax.png" alt="" width="1200" height="500">
-                <a href="contactos.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Ver más</a>
-		    </div>
-	    </div>
-    </div><br>
-
+    <!--Titulo-->
     <div class="container">
 		<div class="row">
-            <div align="center" class="col-md-12">
+			<div align="center" class="col-md-12">
+				<h1><b>Servicios</b></h1>
+			</div>
+		</div>
+    </div><br>
+
+    <!--Inicio de Servicios-->
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-4">
+                <img src="../img/serv1.jpg" class="d-block w-100" alt="..." width="100" height="350"><br>
+                <h2><b>Asesoramiento para actualizar sitios web</b></h2><br>
+                <h4 align="justify">Te explicamos como utilizar de forma correcta tu sitio web a nivel técnico, de contenido y de diseño, que son los 3 pilares esenciales de tu plan de actualización web.</h4>
+                <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Ver más</a>
+			</div>                                                                          
+            <div class="col-md-4">
+                <img src="../img/serv2.png" class="d-block w-100" alt="..." width="100" height="350"><br>
+                <h2><b>Te capacitamos para dar un mejor manejo de tu sitio web</b></h2><br>
+                <h4 align="justify">Ofreciendo amplio servicio para darle un plus a tu proyecto, tu marca tendrá más visibilidad.</h4>
+                <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Ver más</a>
+			</div>
+            <div class="col-md-4">
+                <img src="../img/serv3.png" class="d-block w-100" alt="..." width="100" height="350"><br>
+                <h2><b>Creamos todo tipo de sitio web</b></h2>
+                <h4 align="justify">Te brindamos herramientas de seguridad para que puedas evitar engaños y proteger tus dispositivos, redes sociales y datos personales.</h4>
+                <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Ver más</a>
+			</div>
+		</div>
+    </div><br>
+
+    <div align="center" class="container">
+		<div class="row">
+			<div class="col-md-6">
+                <img src="../img/serv4.jpg" class="d-block w-100" alt="..." width="100" height="350"><br>
+                <h2><b>Le brindamos protección a tu sitio web</b></h2><br>
+                <h4 align="justify">Si necesitas a hacer crecer tu negocio y te planeas buscar un socio, aquí te ofrecemos el mejor servicio para ello.</h4>
+                <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Ver más</a>
+			</div>
+            <div class="col-md-6">
+                <img src="../img/serv5.jpg" class="d-block w-100" alt="..." width="100" height="350"><br>
+                <h2><b>Enlazamos tu sitio web con aliados estrátegicos</b></h2><br>
+                <h4 align="justify">Para crear sitios webs: Ofrecen opciones para todo tipo de webs, pero resultn ideales para la creación de blogs o sitios webs de contenido.</h4>
+                <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Ver más</a>
+			</div>
+		</div>
+    </div><br><br>
+    <!--Fin de Servicios-->
+
+    <!--Paralax-->
+    <div align="center" class="container">
+	    <div class="row">
+		    <div class="col-md-12">	
+			    <img src="../img/paralax.png" alt="" width="1200" height="500"><br><br>
+                <a href="contactos.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Escríbenos</a>
+		    </div>
+	    </div>
+    </div><br><br>
+
+    <!--Titulo-->
+    <div align="center" class="container">
+		<div class="row">
+            <div class="col-md-12">
 			<h1><b>Suscripción</b></h1>
 		</div>
 	</div><br>
 
+    <!--Suscripcion-->
     <div class="col-md-12">	
 	    <form class="row g-3">
   	        <div class="col-md-6">
@@ -124,6 +178,7 @@
 	    </form>
     </div><br><br><br>
 
+    <!--Titulo-->
     <div class="container">
 		<div class="row">
             <div align="center" class="col-md-12">
@@ -132,34 +187,35 @@
 	    </div>
     </div><br>
 
+    <!--Testimonios-->
     <div class="container">   
-    <div class="row">
-        <div class="col-md-12">
-            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-                <div class="carousel-inner">
-                    <div class="carousel-item active">
-                        <img src="../img/test1.png" class="d-block w-100" alt="..." width="100" height="700">
+        <div class="row">
+            <div class="col-md-12">
+                <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="../img/test1.png" class="d-block w-100" alt="..." width="100" height="700">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="../img/test2.png" class="d-block w-100" alt="..." width="300" height="700">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="../img/test3.png" class="d-block w-100" alt="..." width="300" height="700">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="../img/test4.png" class="d-block w-100" alt="..." width="300" height="700">
+                        </div>
+                        <button class="carousel-control-prev" type="button" data-bs-target="				#carouselExampleControls" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="				#carouselExampleControls" data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
                     </div>
-                    <div class="carousel-item">
-                        <img src="../img/test2.png" class="d-block w-100" alt="..." width="300" height="700">
-                    </div>
-                    <div class="carousel-item">
-                        <img src="../img/test3.png" class="d-block w-100" alt="..." width="300" height="700">
-                    </div>
-                    <div class="carousel-item">
-                        <img src="../img/test4.png" class="d-block w-100" alt="..." width="300" height="700">
-                    </div>
-                    </div>
-                    <button class="carousel-control-prev" type="button" data-bs-target="				#carouselExampleControls" data-bs-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="				#carouselExampleControls" data-bs-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Next</span>
-                    </button>
-                </div>
-            </div>	
+                </div>	
+            </div>
         </div>
     </div><br>
     <!-- *********************************************** -->

@@ -95,8 +95,8 @@
 
     <div class="container">
 		<div class="row">
-			<div align="center" class="col-md-6">
-                <h1><b>TESTIMONIO</b></h1>
+			<div align="center" class="col-md-12">
+           <h1><b>TESTIMONIO</b></h1>
 			</div>
 		</div>
     </div><br>
@@ -111,13 +111,13 @@
      
     <div class="container">
 		<div class="row">
-			<div align="center" class="col-md-6">
+			<div align="center" class="col-md-4">
                 <h1><b>NOMBRE1</b></h1>
 			</div>
-            <div align="center" class="col-md-6">
+            <div align="center" class="col-md-4">
                 <h1><b>NOMBRE2</b></h1>
 			</div>
-            <div align="center" class="col-md-6">
+            <div align="center" class="col-md-4">
                 <h1><b>NOMBRE3</b></h1>
 			</div>
 		</div>
@@ -125,13 +125,13 @@
     
     <div class="container">
 		<div class="row">
-			<div align="center" class="col-md-6">
+			<div align="center" class="col-md-4">
                 <h1><b>NOMBRE4</b></h1>
 			</div>
-            <div align="center" class="col-md-6">
+            <div align="center" class="col-md-4">
                 <h1><b>NOMBRE5</b></h1>
 			</div>
-            <div align="center" class="col-md-6">
+            <div align="center" class="col-md-4">
                 <h1><b>NOMBRE6</b></h1>
 			</div>
 		</div>
