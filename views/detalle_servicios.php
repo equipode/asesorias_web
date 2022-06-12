@@ -79,7 +79,7 @@
             <div align="center" class="col-md-6">
 				<h1><b>Asesoramiento para actualizar Sitios Web</b></h1><br>
                 <p>Te explicamos cómo actualizar tu página web a nivel técnico, de contenido y de diseño, que son los 3 pilares esenciales de tu plan de actualización web.</p><br>
-                           <b>$100.000 </b><br>
+                <b>$100.000 </b><br>
                 <a class="btn btn-primary" href="cotizacion.php" role="button">Contratar</a>
 			</div>
 
@@ -96,8 +96,8 @@
 
             <div align="center" class="col-md-6">
 				<h1><b>Te capacitamos para dar un mejor manejo de tu sitio web</b></h1><br>
-                <p>Ofreciendo amplio servicio para darle un plus a tu proyecto, tu marca tendrá más visibilidad</p><br>
-                    <b>$250.000 </b><br>
+                <p>Ofreciendo amplio servicio para darle un plus a tu proyecto, tu marca tendrá más visibilidad.</p><br>
+                <b>$250.000 </b><br>
                 <a class="btn btn-primary" href="cotizacion.php" role="button">Contratar</a>
 			</div>
 
@@ -112,9 +112,9 @@
 			</div>
 
             <div align="center" class="col-md-6">
-				<h1><b>Le brindamos proteccion a tu sitio Web</b></h1><br>
+				<h1><b>Le brindamos protección a tu sitio Web</b></h1><br>
                 <p>Te brindamos herramientas de seguridad para que puedas evitar engaños y proteger tus dispositivos, redes sociales y datos personales.</p><br>
-                    <b>$80.000 </b><br>
+                <b>$80.000 </b><br>
                 <a class="btn btn-primary" href="cotizacion.php" role="button">Contratar</a>
 			</div>
 
@@ -130,8 +130,8 @@
 
             <div align="center" class="col-md-6">
 				<h1><b>Enlazamos tu sitio web con aliados estrategicos</b></h1><br>
-                <p>Si necesitas hacer crecer tu negocio y te planteas buscar un socio, aqui te ofrecemos el mejor servicio para ello </p><br>
-                      <b>$60.000 </b><br>
+                <p>Si necesitas a hacer crecer tu negocio y te planteas buscar un socio, aquí te ofrecemos el mejor servicio para ello. </p><br>
+                <b>$60.000 </b><br>
                 <a class="btn btn-primary" href="cotizacion.php" role="button">Contratar</a>
 			</div>
 
@@ -148,7 +148,7 @@
             <div align="center" class="col-md-6">
 				<h1><b>Creamos todo tipo de sitios Web</b></h1><br>
                 <p>Para crear sitios web: ofrecen opciones para todo tipo de webs pero resultan ideales para la creación de blogs o sitios web de contenido.</p><br>
-                    <b>$200.000 </b><br>
+                <b>$200.000 </b><br>
                 <a class="btn btn-primary" href="cotizacion.php" role="button">Contratar</a>
 			</div>
 
@@ -166,8 +166,8 @@
 				<h1><b>Caracteristicas</b></h1><br>
                 <ul align="left">
                     <li>El producto es entregado a tiempo</li>
-                    <li>Somos responsables con nuestro programas  </li>
-                    <li>Nos caracterizamos por ofrecer un exelente servicio</li>
+                    <li>Somos responsables con nuestro programas </li>
+                    <li>Nos caracterizamos por ofrecer un excelente servicio</li>
                     <li>Nuestros servicios son de alta calidad</li>
                 </ul>
           
@@ -185,7 +185,7 @@
             <div class="container">
     
 
-<!--Slaider-->
+<!--Slider-->
         <div class="container">   
     <div class="row">
         <div class="col-md-12">

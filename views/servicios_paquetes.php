@@ -122,25 +122,25 @@
 		</div>
     </div><br>
     
-    <!-- Inicio de Condiciones-->
+    <!--Inicio de Condiciones-->
     <div class="container">
 		<div class="row">
 			<div class="col-md-6">
                 <ul align="justify">
                     <li>Debe ser mayor de 18 años</li>
-                    <li>Debe hacer un adelanto del 30% para comenzar a desarrollar el sitio web</li>
+                    <li>Debe a hacer un adelanto del 30% para comenzar a desarrollar el sitio web</li>
                     <li>Debe digitar sus datos personales</li>
-                    <li>El desarrollo de cada sitio web se tardara dependiendo la complejidad deseada</li>
-                    <li>En caso de agregar detalles adicionales a las paginas avisar con anticipacion y debe hacer otro deposito además del acordado</li>
+                    <li>El desarrollo de cada sitio web se tardará dependiendo de la complejidad deseada</li>
+                    <li>En caso de agregar detalles adicionales a las páginas, avisar con anticipación y debe a hacer otro depósito además del acordado</li>
                 </ul>
 			</div>
             <div class="col-md-6">
                 <ul align="justify">
-                    <li>Elije tus métodos de pagos y tarifas de envios </li>
-                    <li>Se debe hacer un contrato para empezar el desarrollo del sitio web</li>
+                    <li>Elije tus métodos de pagos y tarifas de envíos </li>
+                    <li>Se debe a hacer un contrato para empezar el desarrollo del sitio web</li>
                     <li>El uso de este sitio web y sus servicios, indica que aceptas los Términos de Uso</li>
-                    <li>Tus datos de indentificacion estaran protegidos</li>
-                    <li>Solo tú eres responsable de tomar la decisión para que tu negocio cresca sin límites </li>
+                    <li>Tus datos de indentificación estaran protegidos</li>
+                    <li>Solo tú eres responsable de tomar la decisión para que tu negocio crezca sin límites </li>
                 </ul>
 			</div>
         </div>
