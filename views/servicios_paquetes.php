@@ -68,6 +68,7 @@
     <!-- ZONA DE CONTENIDO --> 
     <!-- *********************************************** -->
 
+    <!--Titulo Paquetes de servicios-->
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-12">
@@ -76,6 +77,7 @@
 		</div>
     </div><br>
 
+    <!--Inicio Paquetes de Servicios--> 
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-4">
@@ -92,6 +94,7 @@
 			</div>
 		</div>
     </div><br>
+
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-4">
@@ -108,7 +111,9 @@
 			</div>
 		</div>
     </div><br><br>
+    <!--Fin Paquetes de servicios-->
 
+    <!--Titulo Condiciones-->
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-12">
@@ -116,11 +121,12 @@
 			</div>
 		</div>
     </div><br>
-
+    
+    <!-- Inicio de Condiciones-->
     <div class="container">
 		<div class="row">
 			<div class="col-md-6">
-                <ul>
+                <ul align="justify">
                     <li>Debe ser mayor de 18 años</li>
                     <li>Debe hacer un adelanto del 30% para comenzar a desarrollar el sitio web</li>
                     <li>Debe digitar sus datos personales</li>
@@ -129,7 +135,7 @@
                 </ul>
 			</div>
             <div class="col-md-6">
-                <ul>
+                <ul align="justify">
                     <li>Elije tus métodos de pagos y tarifas de envios </li>
                     <li>Se debe hacer un contrato para empezar el desarrollo del sitio web</li>
                     <li>El uso de este sitio web y sus servicios, indica que aceptas los Términos de Uso</li>
@@ -139,6 +145,7 @@
 			</div>
         </div>
     </div>
+    <!--Fin de Condiciones-->
 
     <!-- *********************************************** -->
     <!-- FIN ZONA DE CONTENIDO --> 

@@ -97,7 +97,7 @@
         </div>   	
     </section>
 
-    <!--Titulo-->
+    <!--Titulo de Servicios-->
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-12">
@@ -158,7 +158,7 @@
 	    </div>
     </div><br><br>
 
-    <!--Titulo-->
+    <!--Titulo de Suscripción-->
     <div align="center" class="container">
 		<div class="row">
             <div class="col-md-12">
@@ -178,7 +178,7 @@
 	    </form>
     </div><br><br><br>
 
-    <!--Titulo-->
+    <!--Titulo de Testimonios-->
     <div class="container">
 		<div class="row">
             <div align="center" class="col-md-12">
