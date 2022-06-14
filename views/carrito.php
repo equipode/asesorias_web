@@ -16,7 +16,9 @@
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500&family=Roboto:wght@500;700;900&display=swap" rel="stylesheet"> 
+    <link
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500&family=Roboto:wght@500;700;900&display=swap"
+        rel="stylesheet">
 
     <!-- Icon Font Stylesheet -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
@@ -66,7 +68,7 @@
     <!-- Carousel End -->
 
     <!-- *********************************************** -->
-    <!-- ZONA DE CONTENIDO --> 
+    <!-- ZONA DE CONTENIDO -->
     <!-- *********************************************** -->
 
     <div class="container">
@@ -76,85 +78,118 @@
                 <H1><b>Resumen de la compra</b></H1>
             </div>
 
-         </div>
+        </div>
     </div>
 
     <!-- Resumen de la compra -->
 
     <div class="container">
         <div class="row">
-        <div align="center" class="col md-12">
+            <div align="center" class="col md-12">
                 <table style="width: 50%">
                     <tr>
                         <th>
-                        <FONT COLOR="black"><b>Servicio</b></FONT>
+                            <FONT COLOR="black"><b>Servicio</b></FONT>
                         </th>
                         <th>
                             <FONT COLOR="black"><b>Valor</b></FONT>
                         </th>
                         <th>
                             <FONT COLOR="black"><b>Descuento</b></FONT>
-                       </th>
+                        </th>
                     </tr>
                     <tr>
                         <td>
+                            <!--
                           <label for="N"></label>
                           <input type="text" id="N" name="Nombre" size="30">
+                         -->
+                            <a class="btn btn-primary" href="#" role="button">Creamos todo tipo de sitio web</a>
                         </td>
                         <td>
+                            <!--
                           <label for="N"></label>
                           <input type="text" id="N" name="Nombre" size="30">
+                        -->
+                            <a class="btn btn-primary" href="#" role="button">200.000</a>
                         </td>
                         <td>
+                            <!--
                           <label for="N"></label>
                           <input type="text" id="N" name="Nombre" size="30">
-                        </td>
-                    </tr>  
-                    
-                    <tr>
-                        <td>
-                          <label for="N"></label>
-                          <input type="text" id="N" name="Nombre" size="30">
-                        </td>
-                        <td>
-                          <label for="N"></label>
-                          <input type="text" id="N" name="Nombre" size="30">
-                        </td>
-                        <td>
-                          <label for="N"></label>
-                          <input type="text" id="N" name="Nombre" size="30">
+                        -->
+                            <a class="btn btn-primary" href="#" role="button">2.000</a>
                         </td>
                     </tr>
-                    
+
                     <tr>
                         <td>
+                            <!--
                           <label for="N"></label>
                           <input type="text" id="N" name="Nombre" size="30">
+                        -->
+                            <a class="btn btn-primary" href="#" role="button">Le brindamos protección a tu sitio web</a>
                         </td>
                         <td>
+                            <!--
                           <label for="N"></label>
                           <input type="text" id="N" name="Nombre" size="30">
+                        -->
+                            <a class="btn btn-primary" href="#" role="button">80.000</a>
                         </td>
                         <td>
+                            <!--
                           <label for="N"></label>
                           <input type="text" id="N" name="Nombre" size="30">
+                        -->
+                            <a class="btn btn-primary" href="#" role="button">1000</a>
                         </td>
-                    </tr>                    
+                    </tr>
+
+                    <tr>
+                        <td>
+                            <!--
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        -->
+                            <a class="btn btn-primary" href="#" role="button">Enlazamos tu sitio web con aliados
+                                estrátegicos</a>
+                        </td>
+                        <td>
+                            <!--
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        -->
+                            <a class="btn btn-primary" href="#" role="button">60.000</a>
+                        </td>
+                        <td>
+                            <!--
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        -->
+                            <a class="btn btn-primary" href="#" role="button">500</a>
+                        </td>
+
+                    </tr>
 
                 </table>
             </div>
         </div>
-    </div> <br>  
-    
+    </div> <br>
+
     <div class="container">
         <div class="row">
             <div class="col md-6">
                 <form name="datos">
-                    <label for="N"><FONT COLOR="black">Cupon de descuento</FONT></label><br><br>
+                    <label for="N">
+                        <FONT COLOR="black">Cupon de descuento</FONT>
+                    </label><br><br>
                     <input type="text" id="N" name="Nombre" size="30">
                 </form><br><br>
 
-                <label><FONT COLOR="black">Metodos de envio</FONT></label><br><br>
+                <label>
+                    <FONT COLOR="black">Metodos de envio</FONT>
+                </label><br><br>
                 <select name="metodo">
                     <option value="1">Correo</option>
                     <option value="2">whatsApp</option>
@@ -163,8 +198,10 @@
             </div>
 
             <div class="col md-6">
-            <form name="datos">
-                    <label for="N"><FONT COLOR="black">Total:</FONT></label>
+                <form name="datos">
+                    <label for="N">
+                        <FONT COLOR="black">Total:</FONT>
+                    </label>
                     <input type="double" id="N" name="Nombre" size="10">
                 </form><br><br>
                 <a class="btn btn-primary" href="compra_finalizar.php" role="button">Finalizar compra</a>
@@ -173,7 +210,7 @@
     </div>
 
     <!-- *********************************************** -->
-    <!-- FIN ZONA DE CONTENIDO --> 
+    <!-- FIN ZONA DE CONTENIDO -->
     <!-- *********************************************** -->
 
     <!-- Footer Start -->
@@ -184,7 +221,8 @@
 
 
     <!-- Back to Top -->
-    <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i class="bi bi-arrow-up"></i></a>
+    <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i
+            class="bi bi-arrow-up"></i></a>
 
 
     <!-- JavaScript Libraries -->
