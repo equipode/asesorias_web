@@ -71,13 +71,59 @@
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-6">
-                <h1><b>Sitios web básicos</b></h1>
-                <h2><b>Resumen</b></h2>
+        <h1><b>Sitios web básicos</b></h1><br>
+        <h2 align="left"><b>Resumen: En asesorias web te ofrecemos el siguiente paquete basico por 400,000 donde te obsequiamos el dominio.<br>¡COMPRALO YA!  </b></h2>
 			</div>
-            <div align="center" class="col-md-6">
-                <h1><b>$ 400.000</b></h1>
-                <h1><b>CONTRATAR</b></h1> 
-                <h1><b>COTIZAR</b></h1>
+      <div align="center" class="col-md-6">
+        <h1><b>$ 400.000</b></h1><br>
+        <a href="contactos.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Contratar</a><br><br>
+        <a href="cotizacion.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Cotizar</a>
+			</div>
+		</div>
+    </div><br><br>
+
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-6">
+        <h1><b>CARACTERISTICAS</b></h1><br>
+        <ul align="justify">
+          <li>Incluye enlaces a redes sociales para alcanzar más clientes</li>
+          <li>Incluye un maximo de 2 videos para publicidad de tu sitio web</li>
+          <li>incluye un maximo de 2 imagenes para dar mayor impacto visual</li>
+        </ul>
+			</div>
+        <div align="center" class="col-md-6">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/MKEms6XRcXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+		</div>
+    </div><br><br>
+
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-6">
+        <h1><b>Sitios web popular</b></h1><br>
+        <h2 align="left"><b>Resumen: Con el paquete popular puedes darle mayor calidad a tu sitio web <br>¡ADQUIERELO YA!</b></h2>
+			</div>
+      <div align="center" class="col-md-6">
+        <h1><b>$ 650.000</b></h1><br>
+        <a href="contactos.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Contratar</a><br><br>
+        <a href="cotizacion.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Cotizar</a>
+			</div>
+		</div>
+    </div><br><br>
+
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-6">
+        <h1><b>CARACTERISTICAS</b></h1><br>
+        <ul align="justify">
+          <li>Este paquete incluye formularios personalizados para que gestione las preguntas que quieras</li>
+          <li>Incluye hasta 5 cuentas de correo electronico para tener diferentes medios de comunicación</li>
+          <li>Como un obsequio te brindamos una galeria de imagenes</li>
+        </ul>
+			</div>
+        <div align="center" class="col-md-6">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/nYCRkhAaTJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 		</div>
     </div><br>
@@ -85,10 +131,119 @@
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-6">
-                <h1><b>CARACTERISTICAS</b></h1>
+        <h1><b>Sitios web modern</b></h1><br>
+        <h2 align="left"><b>Resumen: Con el paquete modern ampliamos el contenido de tu sitio web <br>¡OBTENLO YA!</b></h2>
 			</div>
-            <div align="center" class="col-md-6">
-                <h1><b>VIDEO EXPLICATIVO</b></h1>
+      <div align="center" class="col-md-6">
+        <h1><b>$ 850.000</b></h1><br>
+        <a href="contactos.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Contratar</a><br><br>
+        <a href="cotizacion.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Cotizar</a>
+			</div>
+		</div>
+    </div><br><br>
+
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-6">
+        <h1><b>CARACTERISTICAS</b></h1><br>
+        <ul align="justify">
+          <li>Se incluye 10 paginas de contenido para ampliar tu catalogo de tu sitio web </li>
+          <li>Se incluyen imagenes interactivas con el fin de brindar mas dinamismo a tu sitio web</li>
+          <li>Formularios personalizados para la recoleccion de los datos sobre el cliente </li>
+        </ul>
+			</div>
+        <div align="center" class="col-md-6">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/0IQdmiBmOuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+		</div>
+    </div><br>
+
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-6">
+        <h1><b>Sitios web premium</b></h1><br>
+        <h2 align="left"><b>Resumen: Con el paquete premium llevamos al maximo nivel tu sitio web <br>¡OBTENLO YA!</b></h2>
+			</div>
+      <div align="center" class="col-md-6">
+        <h1><b>$ 1.250.000</b></h1><br>
+        <a href="contactos.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Contratar</a><br><br>
+        <a href="cotizacion.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Cotizar</a>
+			</div>
+		</div>
+    </div><br><br>
+
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-6">
+        <h1><b>CARACTERISTICAS</b></h1><br>
+        <ul align="justify">
+          <li>Incluye 3 galerias de imagenes para dar mayor impacto visual hacia los usuarios </li>
+          <li>Incluye de 6 a 9 paginas de contenido para actualizar toda informacion de tu empresa </li>
+          <li>Incluye de 3 a 4 videos e imagenes interactivas para mayor visualizacion de anuncios </li>
+        </ul>
+			</div>
+        <div align="center" class="col-md-6">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/MuwoePj9Dog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+		</div>
+    </div><br>
+
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-6">
+        <h1><b>Sitios web dinamico</b></h1><br>
+        <h2 align="left"><b>Resumen: Con el paquete dianmico puedes aportar una mejor experiencia a tus usuarios  <br>¡OBTENLO YA!</b></h2>
+			</div>
+      <div align="center" class="col-md-6">
+        <h1><b>$ 1.500.000</b></h1><br>
+        <a href="contactos.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Contratar</a><br><br>
+        <a href="cotizacion.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Cotizar</a>
+			</div>
+		</div>
+    </div><br><br>
+
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-6">
+        <h1><b>CARACTERISTICAS</b></h1><br>
+        <ul align="justify">
+          <li>Incluye integracion de base de datos para guardar el registro de tus usuarios </li>
+          <li>Incluye 10 a 15 paginas interactivas  </li>
+          <li>Incluye de 7 a 9 videos para que los anunciantes puedan hacer publicidad con tu sitio web </li>
+        </ul>
+			</div>
+        <div align="center" class="col-md-6">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/n0pJ3RJDqz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+		</div>
+    </div><br>
+
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-6">
+        <h1><b>Sitios web business</b></h1><br>
+        <h2 align="left"><b>Resumen:Con el paquet bussiness damos mayor proyeccion empresarial y visualizacion  <br>¡OBTENLO YA!</b></h2>
+			</div>
+      <div align="center" class="col-md-6">
+        <h1><b>$ 2.000.000</b></h1><br>
+        <a href="contactos.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Contratar</a><br><br>
+        <a href="cotizacion.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Cotizar</a>
+			</div>
+		</div>
+    </div><br><br>
+
+    <div class="container">
+		<div class="row">
+			<div align="center" class="col-md-6">
+        <h1><b>CARACTERISTICAS</b></h1><br>
+        <ul align="justify">
+          <li>Se incluye 6 formularios para los distintos articulos de tu empresa</li>
+          <li>Incluye de 10 a 15 paginas interactivas para que tus productos no tengan limites  </li>
+          <li>Incluye proyeccion empresarial para que tu emprendimiento alcance el ranking numero  1 en el mercado laboral  </li>
+        </ul>
+			</div>
+        <div align="center" class="col-md-6">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/emEp6s3t4yM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 		</div>
     </div><br>
@@ -97,9 +252,38 @@
 		<div class="row">
 			<div align="center" class="col-md-12">
            <h1><b>TESTIMONIO</b></h1>
-			</div>
-		</div>
+           <div class="container">
+           <div class="container">   
+        <div class="row">
+            <div class="col-md-12">
+                <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="../img/test1.png" class="d-block w-100" alt="..." width="100" height="700">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="../img/test2.png" class="d-block w-100" alt="..." width="300" height="700">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="../img/test3.png" class="d-block w-100" alt="..." width="300" height="700">
+                        </div>
+                        <div class="carousel-item">
+                            <img src="../img/test4.png" class="d-block w-100" alt="..." width="300" height="700">
+                        </div>
+                        <button class="carousel-control-prev" type="button" data-bs-target="				#carouselExampleControls" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="				#carouselExampleControls" data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
+                    </div>
+                </div>	
+            </div>
+        </div>
     </div><br>
+	
 
     <div class="container">
 		<div class="row">
@@ -111,28 +295,28 @@
      
     <div class="container">
 		<div class="row">
-			<div align="center" class="col-md-4">
-                <h1><b>NOMBRE1</b></h1>
+			<div align="left" class="col-md-4">
+      <img src="../img/c1.png" class="d-block w-100" alt="..." width="300" height="300">
 			</div>
-            <div align="center" class="col-md-4">
-                <h1><b>NOMBRE2</b></h1>
+      <div align="left" class="col-md-4">
+      <img src="../img/c2.png" class="d-block w-100" alt="..." width="300" height="300">
+      </div>
+      <div align="left" class="col-md-4">
+      <img src="../img/c3.png" class="d-block w-100" alt="..." width="300" height="300">
 			</div>
-            <div align="center" class="col-md-4">
-                <h1><b>NOMBRE3</b></h1>
-			</div>
-		</div>
+		</div> 
     </div><br> 
     
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-4">
-                <h1><b>NOMBRE4</b></h1>
+      <img src="../img/c4.png" class="d-block w-100" alt="..." width="300" height="300">
 			</div>
-            <div align="center" class="col-md-4">
-                <h1><b>NOMBRE5</b></h1>
+      <div align="center" class="col-md-4">
+      <img src="../img/c5.png" class="d-block w-100" alt="..." width="300" height="300">
 			</div>
-            <div align="center" class="col-md-4">
-                <h1><b>NOMBRE6</b></h1>
+      <div align="center" class="col-md-4">
+      <img src="../img/c6.png" class="d-block w-100" alt="..." width="400" height="300">
 			</div>
 		</div>
     </div><br>
