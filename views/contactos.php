@@ -117,26 +117,26 @@
 		</div>
 	</div><br>
 
-    <div class="container">
+    <div class="container" align="center">
         <div class="row">
             <div class="col md-6">
 
             <p><h2> Escribenos </h2> </p>
                 <form>
                     Nombres <br>
-                     <input type="text" size ="15" maxlength="30"  name="Nombres y apellidos completos">
+                     <input type="text" size ="30" maxlength="30"  name="Nombres y apellidos completos">
                         <br>
                         Email
                         <br>
-                     <input type="text" size ="15" maxlength="12" >
+                     <input type="text" size ="30" maxlength="12" >
                         <br>
                         Telefono
                         <br>
-                     <input type="text" size ="15" maxlength="20" >
+                     <input type="text" size ="30" maxlength="20" >
                         <br>
                         Mensaje 
                         <br>
-                     <input type="text" size ="15" maxlength="250" > <br> <br>
+                     <input type="text" size ="30" maxlength="250" > <br> <br>
                      <input type="submit" value="Aceptar">
 
                 </form> 
