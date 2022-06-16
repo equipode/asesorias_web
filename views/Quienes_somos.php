@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Quienes Somos</title>
+    <title>Quienes Somos</title> 
     <link rel="icon" href="../img/logo.png">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
@@ -89,13 +89,13 @@
         <div class="row">
             <div class="col-md-6">
             <h3>Misión</h3><br>
-            <h6 align="justify">Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto ficticio estándar de la industria desde el año 1500, cuando un impresor desconocido tomó una galera de tipos y la codificó para hacer un libro de muestras tipográficas. Ha sobrevivido no solo cinco siglos, sino también el salto a la composición tipográfica electrónica, permaneciendo esencialmente sin cambios. Se popularizó en la década de 1960 con el lanzamiento de hojas de Letraset que contenían pasajes de Lorem Ipsum y, más recientemente, con software de autoedición como Aldus PageMaker, que incluía versiones de Lorem Ipsum.</h6>
+            <h6 align="justify">Buscamos proporcionar servicios de asesoria y productos web, con altos indices de calidad y satifacción en los clientes. Cumpliendo así con las necesidades de los mismos mientras nos posicionamos como empresa lider del mercado en costo y calidad</h6>
 
 
             </div>
             <div class="col-md-6">
             <h3>Visión</h3><br>
-            <h6 align="justify">Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando mire su diseño. El punto de usar Lorem Ipsum es que tiene una distribución de letras más o menos normal, a diferencia de usar 'Contenido aquí, contenido aquí', lo que hace que parezca un inglés legible. Muchos paquetes de autoedición y editores de páginas web ahora usan Lorem Ipsum como su modelo de texto predeterminado, y una búsqueda de 'lorem ipsum' descubrirá muchos sitios web que aún están en su infancia. Varias versiones han evolucionado a lo largo de los años, a veces por accidente, a veces a propósito (humor inyectado y cosas por el estilo).</H6>
+            <h6 align="justify">Nos visionamos como una empresa lider a nivel internacional en toda el area web, teniendo las habilidades para asesorar a otras empresas y proyectarnos a nivel social.</H6>
 
             </div>
         </div>
@@ -109,7 +109,7 @@
         <div class="row">
             <h3 align="center">Nuestro Equipo</h3><br>
             <div class="col-md-4">
-            <img src="../img/dayanna.jpeg" class="d-block w-100" alt="..." width="100" height ="350"><br>
+            <img src="../img/dayanna1.jpeg" class="d-block w-100" alt="..." width="100" height ="350"><br>
             <h6>Gerente General</h6>
             Dayanna Montes Gómez<br>
 
@@ -161,25 +161,25 @@
             <div class="col-md-3" align="center">
             <img src="../img/valor9.png" class="d-block w-15" alt="..." width="50" height ="40"><br>
             <h6>Autenticidad</h6>
-            <p align="justify">Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando mire su diseño.</p>
+            <p align="justify">La originalidad de nuestra empresa es nuestra mayor arma de competencia</p>
             
             </div>
             <div class="col-md-3" align="center">
             <img src="../img/valor2.png" class="d-block w-15" alt="..." width="50" height ="40"><br>
             <h6>Compromiso</h6>
-            <p align="justify"> Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando mire su diseño.</p>
+            <p align="justify">Asumimos cada reto con responsabilidad y eficacia</p>
 
             </div>
             <div class="col-md-3" align="center">
             <img src="../img/valor3.jpg" class="d-block w-15" alt="..." width="50" height ="40"><br>
-            <h6>Autenticidad</h6>
-            <p align="justify">Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando mire su diseño.</p>
+            <h6>Coherencia</h6>
+            <p align="justify">Nuestros servicios reflejan nuestros valores</p>
 
             </div>
             <div class="col-md-3" align="center">
             <img src="../img/valor4.png" class="d-block w-15" alt="..." width="50" height ="40"><br>
             <h6>Confianza</h6>
-            <p align="justify">Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando mire su diseño.</p>
+            <p align="justify">la calidad de nuestro resultado es el encargado de generar la confianza que queremos.</p>
 
             </div>
         </div>
@@ -187,25 +187,25 @@
             <div class="col-md-3" align="center">
             <img src="../img/valor5.png" class="d-block w-15" alt="..." width="50" height ="40"><br>
             <h6>Transparencia</h6>
-            <p align="justify">Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando mire su diseño.</p>
+            <p align="justify">Disciplina y orden son el pilar de nuestros resultados.</p>
 
             </div>
             <div class="col-md-3" align="center">
             <img src="../img/valor6.png" class="d-block w-15" alt="..." width="50" height ="40"><br>
             <h6>Integridad</h6>
-            <p align="justify">Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando mire su diseño.</p>
+            <p align="justify">Etica y caracter define nuestras acciones.</p>
 
             </div>
             <div class="col-md-3" align="center">
             <img src="../img/valor7.png" class="d-block w-15" alt="..." width="50" height ="40"><br>
             <h6>Innovación</h6>
-            <p align="justify">Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando mire su diseño.</p>
+            <p align="justify">Creatividad y flexibilidad son nuestra forma de trabajo.</p>
 
             </div>
             <div class="col-md-3" align="center">
             <img src="../img/valor8.png" class="d-block w-15" alt="..." width="50" height ="40"><br>
             <h6>Pasión</h6>
-            <p align="justify">Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando mire su diseño.</p>
+            <p align="justify">transmitimos el amor con que hacemos nuestra labor.</p>
 
             </div>
     </div>

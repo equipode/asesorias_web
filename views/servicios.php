@@ -67,6 +67,8 @@
     <!-- *********************************************** -->
     <!-- ZONA DE CONTENIDO --> 
     <!-- *********************************************** -->
+
+    <!-- servicios -->
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-12">
@@ -78,15 +80,24 @@
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-4">
-				<h1><b>Asesoramiento para actualizar Sitios Web</b></h1>
+      <img src="../img/asesoramiento.jpg" class="d-block w-100" alt="..." width="200" height ="200">
+				<b>Asesoramiento para actualizar Sitios Web</b><br>
+        actualizar tu página web a nivel técnico, en contenido y diseño.<br>
+        <a class="btn btn-primary" href="detalle_servicios.php" role="button">Ver más</a>
 			</div>
 
             <div align="center" class="col-md-4">
-				<h1><b>Te capacitamos para dar un mejor manejo de tu sitio web</b></h1>
+            <img src="../img/2daimagen.png" class="d-block w-100" alt="..." width="200" height ="200">
+				<b>Te capacitamos para dar un mejor manejo de tu sitio web</b><br>
+        se ofrece un amplio servicio para tu sitio web.<br>
+        <a class="btn btn-primary" href="detalle_servicios.php" role="button">Ver más</a>
 			</div>
 
             <div align="center" class="col-md-4">
-				<h1><b>Le brindamos proteccion a tu sitio Web</b></h1>
+            <img src="../img/proteger sitio web.jpg" class="d-block w-100" alt="..." width="200" height ="200">
+				<b>Le brindamos proteccion a tu sitio Web</b><br>
+        conoceras las mejores herramientas para evitar engaños a tu sitio web.<br>
+        <a class="btn btn-primary" href="detalle_servicios.php" role="button">Ver más</a>
 			</div>
 
 		</div>
@@ -95,14 +106,22 @@
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-6">
-				<h1><b>Enlazamos tu sitio web con aliados estrategicos</b></h1>
+      <img src="../img/aliados estrategicos.png" class="d-block w-100" alt="..." width="50" height ="200">
+				<b>Enlazamos tu sitio web con aliados estrategicos</b><br>
+        encuentra aquí los mejores aliados estrategicos para tu sitio web<br>
+        <a class="btn btn-primary" href="detalle_servicios.php" role="button">Ver más</a>
 			</div>
 
             <div align="center" class="col-md-6">
-				<h1><b>Creamos todo tipo de sitios Web</b></h1>
+            <img src="../img/tipos de sitios web.png" class="d-block w-100" alt="..." width="50" height ="200">
+				<b>Creamos todo tipo de sitios Web</b><br>
+        te ofrecemos las mejores opciones para la creación de sitios web<br>
+        <a class="btn btn-primary" href="detalle_servicios.php" role="button">Ver más</a>
 			</div>
 		</div>
     </div><br>
+
+    <!-- condiciones del servicio -->
 
     <div class="container">
 		<div class="row">
@@ -115,18 +134,108 @@
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-6">
-				<h1><b>CONDICIONES DE SERVICIOS</b></h1>
-			</div>
+				<li><b>servicios en tu casa </b></li>
+		  </div>
 
             <div align="center" class="col-md-6">
-				<h1><b>CONDICIONES DE SERVICIOS</b></h1>
+				      <p><b>$60000</b></p>
+			       </div>
+
+     <div class="container">
+      <div class="row">
+			  <div align="center" class="col-md-6">
+          <li><b>servicios online </b></li>
+		  	</div>
+
+       <div align="center" class="col-md-6">
+				<p><b>$40000</b></p>
+			</div>
+
+     <div class="container">
+		 <div class="row">
+			<div align="center" class="col-md-6">
+				<li><b>servicios de asesoramiento</b></li>
+		  </div>
+
+       <div align="center" class="col-md-6">
+				<p><b>$40000</b></p>
+			 </div>
+
+     <div class="container">
+     <div class="row">
+			<div align="center" class="col-md-6">
+				 <li><b>servicios de capacitación</b></li>
+		  </div>
+
+       <div align="center" class="col-md-6">
+				<p><b>$40000</b></p>
 			</div>
 
 		</div>
     </div><br>
 
+    <!-- Caracteristicas Generales -->
+    <div class="container">
+      <div class="row">
+        <div align="center">
+        <h1><b>Caracteristicas Generales</b></h1>
+        </div>
+      </div>
+    </div>
+    
+   <div class="container">
+      <div class="row">
+         <div align="center" class="col-md-4">
+                <b>Asesoramiento para actualizar sitios web</b>
+                 <p>en asesorias te guiamos para que puedas manejar tus actualisaciones y como mejorar tu sitio web.</p>
+        </div>
 
+        <div align="center" class="col-md-4">
+                <b>Te capacitamos para dar un mejor manejo a tu sitio web.</b>
+                <p>Aquí podras aprender de manera mas facil y censilla como mejorar tu sitio con algunas tecnicas que te enseñaremos.</p>
+        </div>
 
+        <div align="center" class="col-md-4">
+                <b>Le brindamos proteccion a tu sitio web</b>
+                <p>con el tiempo a ido aumentando el peligr de ataques a los sitios web con el fin de robar informacion, te ofrecemos la proteccion para tu sitio web.</p>
+        </div>
+      </div>
+   </div><br>
+
+   
+   <div class="container">
+      <div class="row">
+         <div align="center" class="col-md-6">
+                <b>Enlazamos tu sitio web con aliados estrategicos</b>
+                <p>queremos darte ua razon mas para que nos conozcas, aquí tenemos los mejores aliados para tu sitio.</p>
+        </div>
+
+        <div align="center" class="col-md-6">
+                <b>Creamos todo tipo de stios web</b>
+                <p>En este lugar te creamos el sitio web que nacesites, te pondremos el mejor diseño y lo todo lo que tu sitio web necesite.</p>
+        </div>
+
+      </div>
+   </div><br>
+
+   <!-- escribenos-->
+   <div class="container">
+      <div class="row">
+        <div align="center">
+        <FONT COLOR="black"><b>Escribenos</b></FONT>
+                <br><br>
+                <form name="Nombre">
+                    <input type="text" id="N" name="Nombre" size="30" placeholder="Nombre">
+                </form><br>
+
+                <form name="email">
+                    <input type="text" id="N" name="email" size="30" placeholder="Email">
+                </form><br>
+                <textarea name="mensaje" placeholder="Mensaje" rows="5" cols="30"></textarea>
+                <p><input type="submit" value="Enviar"></p>
+        </div>
+      </div>
+    </div>
 
     <!-- *********************************************** -->
     <!-- FIN ZONA DE CONTENIDO --> 
