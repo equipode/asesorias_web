@@ -67,7 +67,7 @@
     <!-- *********************************************** -->
     <!-- ZONA DE CONTENIDO --> 
     <!-- *********************************************** -->
-    <div class="container">
+  <div     class="container">
 		<div class="row">
 			<div align="center" class="col-md-12">
 				<h1><b>SERVICIOS</b></h1>
@@ -78,15 +78,24 @@
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-4">
-				<h1><b>Asesoramiento para actualizar Sitios Web</b></h1>
+      <img src="../img/asesoramiento.jpg" class="d-block w-100" alt="..." width="200" height ="200">
+				<b>Asesoramiento para actualizar Sitios Web</b><br>
+        actualizar tu página web a nivel técnico, en contenido y diseño.
+        <a class="btn btn-primary" href="detalle_servicios.php" role="button">Ver más</a>
 			</div>
 
             <div align="center" class="col-md-4">
-				<h1><b>Te capacitamos para dar un mejor manejo de tu sitio web</b></h1>
+            <img src="../img/2daimagen.png" class="d-block w-100" alt="..." width="200" height ="200">
+				<b>Te capacitamos para dar un mejor manejo de tu sitio web</b><br>
+        se ofrece un amplio servicio para tu sitio web.
+        <a class="btn btn-primary" href="detalle_servicios.php" role="button">Ver más</a>
 			</div>
 
             <div align="center" class="col-md-4">
-				<h1><b>Le brindamos proteccion a tu sitio Web</b></h1>
+            <img src="../img/proteger sitio web.jpg" class="d-block w-100" alt="..." width="200" height ="200">
+				<b>Le brindamos proteccion a tu sitio Web</b><br>
+        conoceras las mejores herramientas para evitar engaños a tu sitio web.
+        <a class="btn btn-primary" href="detalle_servicios.php" role="button">Ver más</a>
 			</div>
 
 		</div>
@@ -95,15 +104,20 @@
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-6">
-				<h1><b>Enlazamos tu sitio web con aliados estrategicos</b></h1>
+      <img src="../img/aliados estrategicos.png" class="d-block w-100" alt="..." width="50" height ="200">
+				<b>Enlazamos tu sitio web con aliados estrategicos</b><br>
+        encuentra aquí los mejores aliados estrategicos para tu sitio web
+        <a class="btn btn-primary" href="detalle_servicios.php" role="button">Ver más</a>
 			</div>
 
             <div align="center" class="col-md-6">
-				<h1><b>Creamos todo tipo de sitios Web</b></h1>
+            <img src="../img/tipos de sitios web.png" class="d-block w-100" alt="..." width="50" height ="200">
+				<b>Creamos todo tipo de sitios Web</b><br>
+        te ofrecemos las mejores opciones para la creación de sitios web
+        <a class="btn btn-primary" href="detalle_servicios.php" role="button">Ver más</a>
 			</div>
 		</div>
     </div><br>
-
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-12">
