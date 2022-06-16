@@ -67,7 +67,7 @@
     <!-- *********************************************** -->
     <!-- ZONA DE CONTENIDO --> 
     <!-- *********************************************** -->
-  <div     class="container">
+    <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-12">
 				<h1><b>SERVICIOS</b></h1>
@@ -79,7 +79,7 @@
 		<div class="row">
 			<div align="center" class="col-md-4">
       <img src="../img/asesoramiento.jpg" class="d-block w-100" alt="..." width="200" height ="200">
-				<b>Asesoramiento para actualizar Sitios Web</b><br>
+				Asesoramiento para actualizar Sitios Web<br>
         actualizar tu página web a nivel técnico, en contenido y diseño.
         <a class="btn btn-primary" href="detalle_servicios.php" role="button">Ver más</a>
 			</div>
