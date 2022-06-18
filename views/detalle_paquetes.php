@@ -296,13 +296,13 @@
     <div class="container">
 		<div class="row">
 			<div align="left" class="col-md-4">
-      <img src="../img/c1.png" class="d-block w-100" alt="..." width="300" height="300">
+      <img src="../img/co1.png" class="d-block w-100" alt="..." width="300" height="250">
 			</div>
       <div align="left" class="col-md-4">
-      <img src="../img/c2.png" class="d-block w-100" alt="..." width="300" height="300">
+      <img src="../img/co2.png" class="d-block w-100" alt="..." width="300" height="240">
       </div>
       <div align="left" class="col-md-4">
-      <img src="../img/c3.png" class="d-block w-100" alt="..." width="300" height="300">
+      <img src="../img/co3.png" class="d-block w-100" alt="..." width="300" height="250">
 			</div>
 		</div> 
     </div><br> 
@@ -310,13 +310,13 @@
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-4">
-      <img src="../img/c4.png" class="d-block w-100" alt="..." width="300" height="300">
+      <img src="../img/co4.png" class="d-block w-100" alt="..." width="300" height="250">
 			</div>
       <div align="center" class="col-md-4">
-      <img src="../img/c5.png" class="d-block w-100" alt="..." width="300" height="300">
+      <img src="../img/co5.png" class="d-block w-100" alt="..." width="300" height="250">
 			</div>
       <div align="center" class="col-md-4">
-      <img src="../img/c6.png" class="d-block w-100" alt="..." width="400" height="300">
+      <img src="../img/co6.png" class="d-block w-100" alt="..." width="300" height="250">
 			</div>
 		</div>
     </div><br>
