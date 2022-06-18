@@ -1,14 +1,14 @@
 <!--DIEGO-->
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 
 <head>
     <meta charset="utf-8">
-    <title>Solartec - Renewable Energy Website Template</title>
+    <title>Detalle de paquetes</title>
     <link rel="icon" href="../img/logo.png">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    <meta content="" name="keywords" content="sitios web, calidad, contratar, cotizar, obsequios">
+    <meta content="" name="description" content="Aquí puedes encontrar los detalles de los diferentes paquetes que tenemos para ofrecerte">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -68,6 +68,7 @@
     <!-- ZONA DE CONTENIDO --> 
     <!-- *********************************************** -->
     
+    <!--sitio web basicos-->
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-6">
@@ -82,6 +83,7 @@
 		</div>
     </div><br><br>
 
+    <!--caracteristicas-->
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-6">
@@ -92,12 +94,13 @@
           <li>incluye un maximo de 2 imagenes para dar mayor impacto visual</li>
         </ul>
 			</div>
-        <div align="center" class="col-md-6">
+        <div align="center" class="col-md-6 d-none d-sm-block">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/MKEms6XRcXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 		</div>
     </div><br><br>
 
+    <!--sitio web popular-->
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-6">
@@ -112,6 +115,7 @@
 		</div>
     </div><br><br>
 
+    <!--caracteristicas-->
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-6">
@@ -122,12 +126,13 @@
           <li>Como un obsequio te brindamos una galeria de imagenes</li>
         </ul>
 			</div>
-        <div align="center" class="col-md-6">
+        <div align="center" class="col-md-6 d-none d-sm-block">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/nYCRkhAaTJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 		</div>
     </div><br>
 
+    <!--sitio web modern-->
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-6">
@@ -141,7 +146,8 @@
 			</div>
 		</div>
     </div><br><br>
-
+      
+    <!--caracteristicas-->
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-6">
@@ -152,12 +158,13 @@
           <li>Formularios personalizados para la recoleccion de los datos sobre el cliente </li>
         </ul>
 			</div>
-        <div align="center" class="col-md-6">
+        <div align="center" class="col-md-6 d-none d-sm-block">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/0IQdmiBmOuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 		</div>
     </div><br>
 
+    <!--sitio web premium-->
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-6">
@@ -172,6 +179,7 @@
 		</div>
     </div><br><br>
 
+    <!--caracteristicas-->
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-6">
@@ -182,12 +190,13 @@
           <li>Incluye de 3 a 4 videos e imagenes interactivas para mayor visualizacion de anuncios </li>
         </ul>
 			</div>
-        <div align="center" class="col-md-6">
+        <div align="center" class="col-md-6 d-none d-sm-block">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/MuwoePj9Dog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 		</div>
     </div><br>
 
+    <!--sitio web dinamico-->
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-6">
@@ -202,6 +211,7 @@
 		</div>
     </div><br><br>
 
+    <!--caracteristicas-->
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-6">
@@ -212,12 +222,13 @@
           <li>Incluye de 7 a 9 videos para que los anunciantes puedan hacer publicidad con tu sitio web </li>
         </ul>
 			</div>
-        <div align="center" class="col-md-6">
+        <div align="center" class="col-md-6 d-none d-sm-block">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/n0pJ3RJDqz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 		</div>
     </div><br>
 
+    <!--sitio web business-->
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-6">
@@ -232,6 +243,7 @@
 		</div>
     </div><br><br>
 
+    <!--caracteristicas-->
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-6">
@@ -248,27 +260,30 @@
 		</div>
     </div><br>
 
+    <!--testimonio-->
     <div class="container">
 		<div class="row">
-			<div align="center" class="col-md-12">
+			<div align="center" class="col-md-12 d-none d-sm-block">
            <h1><b>TESTIMONIO</b></h1>
-           <div class="container">
-           <div class="container">   
+      </div>
+    </div>
+    </div><br>
+        <div class="container">   
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-12 d-none d-sm-block">
                 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="../img/test1.png" class="d-block w-100" alt="..." width="100" height="700">
+                            <img src="../img/test1.png" class="d-block w-100" alt="..." title="testimonios" width="100" height="700">
                         </div>
                         <div class="carousel-item">
-                            <img src="../img/test2.png" class="d-block w-100" alt="..." width="300" height="700">
+                            <img src="../img/test2.png" class="d-block w-100" alt="..."title="testimonios" width="300" height="700">
                         </div>
                         <div class="carousel-item">
-                            <img src="../img/test3.png" class="d-block w-100" alt="..." width="300" height="700">
+                            <img src="../img/test3.png" class="d-block w-100" alt="..."title="testimonios" width="300" height="700">
                         </div>
                         <div class="carousel-item">
-                            <img src="../img/test4.png" class="d-block w-100" alt="..." width="300" height="700">
+                            <img src="../img/test4.png" class="d-block w-100" alt="..."title="testimonios" width="300" height="700">
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="				#carouselExampleControls" data-bs-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -284,7 +299,7 @@
         </div>
     </div><br>
 	
-
+    <!--comentarios-->
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-12">
@@ -296,13 +311,13 @@
     <div class="container">
 		<div class="row">
 			<div align="left" class="col-md-4">
-      <img src="../img/co1.png" class="d-block w-100" alt="..." width="300" height="250">
+      <img src="../img/co1.png" class="d-block w-100" alt="..."title="comentarios" width="300" height="250">
 			</div>
       <div align="left" class="col-md-4">
-      <img src="../img/co2.png" class="d-block w-100" alt="..." width="300" height="240">
+      <img src="../img/co2.png" class="d-block w-100" alt="..."title="comentarios" width="300" height="240">
       </div>
       <div align="left" class="col-md-4">
-      <img src="../img/co3.png" class="d-block w-100" alt="..." width="300" height="250">
+      <img src="../img/co3.png" class="d-block w-100" alt="..."title="comentarios" width="300" height="250">
 			</div>
 		</div> 
     </div><br> 
@@ -310,13 +325,13 @@
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-4">
-      <img src="../img/co4.png" class="d-block w-100" alt="..." width="300" height="250">
+      <img src="../img/co4.png" class="d-block w-100" alt="..."title="comentarios" width="300" height="250">
 			</div>
       <div align="center" class="col-md-4">
-      <img src="../img/co5.png" class="d-block w-100" alt="..." width="300" height="250">
+      <img src="../img/co5.png" class="d-block w-100" alt="..."title="comentarios" width="300" height="250">
 			</div>
       <div align="center" class="col-md-4">
-      <img src="../img/co6.png" class="d-block w-100" alt="..." width="300" height="250">
+      <img src="../img/co6.png" class="d-block w-100" alt="..."title="comentarios" width="300" height="250">
 			</div>
 		</div>
     </div><br>
