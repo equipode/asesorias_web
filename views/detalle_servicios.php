@@ -162,7 +162,7 @@
  <!-- Caracteristicas -->
     <div class="container">
 		<div class="row">
-			<div align="center" class="col-md-6">
+			<div align="center" class="d-none d-sm-block col-md-6">
 				<h1><b>Caracteristicas</b></h1><br>
                 <ul align="left">
                     <li>El producto es entregado a tiempo</li>
@@ -173,16 +173,13 @@
           
 			</div>
 <!-- Video -->
-            <div class="col-md-6">
+            <div class="d-none d-sm-block col-md-6">
             <iframe width="640" height="360" src="https://www.youtube.com/embed/0EO6Cmf5EXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 		</div>
     </div><br>
 
-    <div class="container">
-		<div class="row">
-			<div  class="col-md-12">
-            <div class="container">
+
     
 
 <!--Slider-->
