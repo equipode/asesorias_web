@@ -7,8 +7,8 @@
     <title>Carrito</title>
     <link rel="icon" href="../img/logo.png">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    <meta content="descuento, cupon" name="keywords">
+    <meta content="resumen de la compra" name="description">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -195,16 +195,16 @@
                     <option value="2">whatsApp</option>
                     <option value="3">Telegram</option>
                 </select>
-            </div>
+            </div><br>
 
-            <div class="col md-6">
+            <div class="col md-6"><br>
                 <form name="datos">
                     <label for="N">
                         <FONT COLOR="black">Total:</FONT>
                     </label>
                     <input type="double" id="N" name="Nombre" size="10">
                 </form><br><br>
-                <a class="btn btn-primary" href="compra_finalizar.php" role="button">Finalizar compra</a>
+                <a class="btn btn-primary" href="compra_finalizar.php" role="button" title="enlace a compra finalizar">Finalizar compra</a>
             </div>
         </div>
     </div>

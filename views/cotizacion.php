@@ -7,8 +7,8 @@
     <title>Cotizacion</title>
    <link rel="icon" href="../img/logo.png">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    <meta content="cotizar, servicios, contractar" name="keywords">
+    <meta content="se cotiza los servicios a contractar" name="description">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -81,9 +81,9 @@
         <div class="row">
             <div class="col md-6">
             <form>
-            <input type="text" size ="60" maxlength="30" placeholder="Nombre y apellidos completos"><br><br>
-            <input type="text" size ="60" maxlength="12" placeholder="Número de teléfono"><br><br>
-            <input type="text" size ="60" maxlength="20" placeholder="Correo eletrónico"><br><br>
+            <input type="text" size ="40" maxlength="30" placeholder="Nombre y apellidos completos"><br><br>
+            <input type="text" size ="40" maxlength="12" placeholder="Número de teléfono"><br><br>
+            <input type="text" size ="40" maxlength="20" placeholder="Correo eletrónico"><br><br>
 
             ¿Cuales son los servicios a contratar? ➡  
             <select name="Servicios a contratar" size="5" multiple>            
@@ -94,7 +94,7 @@
                 <option>Enlazamos tu sitio web con aliados estrátegicos</option>
             </select><br>
         </div>
-        <div class="col md-6">
+        <div class="d-none d-sm-block col md-6">
             <img src="../img/asesor.jpg" class="d-block w-100" alt="..." width="300" height="350"><br>
         </div>
     </div>

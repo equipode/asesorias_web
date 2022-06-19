@@ -7,8 +7,8 @@
     <title>Compra</title>
     <link rel="icon" href="../img/logo.png">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    <meta content="datos, envio, descuento" name="keywords">
+    <meta content="finalizar la compra" name="description">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
