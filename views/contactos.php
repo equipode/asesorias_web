@@ -1,14 +1,14 @@
 <!--JUAN CAMILO-->
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="utf-8">
     <title>Contactos</title>
     <link rel="icon" href="../img/logo.png">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    <meta content="contactos, correo, telefono, ubicacion, email" name="keywords">
+    <meta content="detalle de contacto de nuestra empresa" name="description">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -70,7 +70,7 @@
 
     <div class="container">
         <div class="row">
-            <div class="col-md-4" bg-danger >
+            <div class="col-md-4 xs col-6" bg-danger >
             <h4>Email</h4> <br>
             <p>Contacto<br>
             Contacto@asesorias.com </p>
@@ -84,7 +84,7 @@
 
 
             </div>
-            <div class="col-md-4" >
+            <div class="col-md-4 col-6" >
 
             <h4>Nuestros Telefonos</h4> <br>
             <P>Servicio al cliente <br>
@@ -97,7 +97,7 @@
             410-5362 </p>
 
             </div>
-            <div class="col-md-4" >
+            <div class="col-md-4 xs md-12" >
              
             <img src="../img/contacto1.png" class="d-block w-100" alt="..." width="200" height ="300">
 
@@ -108,7 +108,7 @@
 <div class="container">
 		<div class="row">
 
-			<div align="center" class="col-md-12">
+			<div align="center" class="col-md-4 xs md-12">
 				<h2><b>¿Dónde estamos?</b></h2>
                 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d489.5504140300119!2d-74.23292987137825!3d11.00833641600789!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2sco!4v1654875594246!5m2!1ses!2sco" width="1200" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

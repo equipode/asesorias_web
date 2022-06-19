@@ -1,6 +1,6 @@
 <!--INGRID-->
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="utf-8">
@@ -78,22 +78,22 @@
     </div><br>
 
     <div class="container">
-		<div class="row">
-			<div align="center" class="col-md-4">
+		<div class="row"><!-- ensayo -->
+			<div align="center" class="col-md-4 col-6">
       <img src="../img/asesoramiento.jpg" class="d-block w-100" alt="..." width="200" height ="200">
 				<b>Asesoramiento para actualizar Sitios Web</b><br>
         actualizar tu página web a nivel técnico, en contenido y diseño.<br>
         <a class="btn btn-primary" href="detalle_servicios.php" role="button">Ver más</a>
 			</div>
 
-            <div align="center" class="col-md-4">
+            <div align="center" class="col-md-4 col-6" >
             <img src="../img/2daimagen.png" class="d-block w-100" alt="..." width="200" height ="200">
 				<b>Te capacitamos para dar un mejor manejo de tu sitio web</b><br>
         se ofrece un amplio servicio para tu sitio web.<br>
         <a class="btn btn-primary" href="detalle_servicios.php" role="button">Ver más</a>
 			</div>
 
-            <div align="center" class="col-md-4">
+            <div align="center" class="col-md-4 col-6">
             <img src="../img/proteger sitio web.jpg" class="d-block w-100" alt="..." width="200" height ="200">
 				<b>Le brindamos proteccion a tu sitio Web</b><br>
         conoceras las mejores herramientas para evitar engaños a tu sitio web.<br>
@@ -105,21 +105,27 @@
 
     <div class="container">
 		<div class="row">
-			<div align="center" class="col-md-6">
+      <div class="col-md-2">
+        <!-- espacio -->
+      </div>
+			<div align="center" class="col-md-4 col-6">
       <img src="../img/aliados estrategicos.png" class="d-block w-100" alt="..." width="50" height ="200">
 				<b>Enlazamos tu sitio web con aliados estrategicos</b><br>
         encuentra aquí los mejores aliados estrategicos para tu sitio web<br>
         <a class="btn btn-primary" href="detalle_servicios.php" role="button">Ver más</a>
 			</div>
 
-            <div align="center" class="col-md-6">
+            <div align="center" class="col-md-4 col-6">
             <img src="../img/tipos de sitios web.png" class="d-block w-100" alt="..." width="50" height ="200">
 				<b>Creamos todo tipo de sitios Web</b><br>
         te ofrecemos las mejores opciones para la creación de sitios web<br>
         <a class="btn btn-primary" href="detalle_servicios.php" role="button">Ver más</a>
 			</div>
 		</div>
-    </div><br>
+    </div>
+    <div class="col-md-2">
+     <!-- espacio --> 
+        </div><br>
 
     <!-- condiciones del servicio -->
 
@@ -177,7 +183,7 @@
     <!-- Caracteristicas Generales -->
     <div class="container">
       <div class="row">
-        <div align="center">
+        <div align="center" class="d-none d-sm-block">
         <h1><b>Caracteristicas Generales</b></h1>
         </div>
       </div>
@@ -185,17 +191,17 @@
     
    <div class="container">
       <div class="row">
-         <div align="center" class="col-md-4">
+         <div align="center" class="d-none d-sm-block col-md-4 ">
                 <b>Asesoramiento para actualizar sitios web</b>
                  <p>en asesorias te guiamos para que puedas manejar tus actualisaciones y como mejorar tu sitio web.</p>
         </div>
 
-        <div align="center" class="col-md-4">
+        <div align="center" class="d-none d-sm-block col-md-4 ">
                 <b>Te capacitamos para dar un mejor manejo a tu sitio web.</b>
                 <p>Aquí podras aprender de manera mas facil y censilla como mejorar tu sitio con algunas tecnicas que te enseñaremos.</p>
         </div>
 
-        <div align="center" class="col-md-4">
+        <div align="center" class="d-none d-sm-block col-md-4 ">
                 <b>Le brindamos proteccion a tu sitio web</b>
                 <p>con el tiempo a ido aumentando el peligr de ataques a los sitios web con el fin de robar informacion, te ofrecemos la proteccion para tu sitio web.</p>
         </div>
@@ -205,12 +211,12 @@
    
    <div class="container">
       <div class="row">
-         <div align="center" class="col-md-6">
+         <div align="center" class="d-none d-sm-block col-md-6">
                 <b>Enlazamos tu sitio web con aliados estrategicos</b>
                 <p>queremos darte ua razon mas para que nos conozcas, aquí tenemos los mejores aliados para tu sitio.</p>
         </div>
 
-        <div align="center" class="col-md-6">
+        <div align="center" class="d-none d-sm-block col-md-6">
                 <b>Creamos todo tipo de stios web</b>
                 <p>En este lugar te creamos el sitio web que nacesites, te pondremos el mejor diseño y lo todo lo que tu sitio web necesite.</p>
         </div>

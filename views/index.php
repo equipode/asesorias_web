@@ -1,14 +1,14 @@
 <!--DAYANNA-->
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="utf-8">
     <title>Home</title>
     <link rel="icon" href="../img/logo.png">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    <meta content="" name="keywords" content="contactos, valores corporativos, detalles, paquetes, paginas, sitios web, calidad, contratar, cotizar, obsequios, correo, telefono, ubicacion, email, mision, vision, equipo ">
+    <meta content="" name="description" content="Contrata con asesorias web para el desarrollo y creacion de tu sitios web, obten lo mejor con nuestros paquetes de servicios. Somos un equipo con grandes valores corporativos.">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -90,7 +90,7 @@
                     </div>
                     <div class="col-lg-6 pe-lg-0 wow fadeIn" data-wow-delay="0.5s" style="min-height: 400px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute img-fluid w-100 h-100" src="../img/design_web.jpg" style="object-fit: cover;" alt="">
+                        <img class="position-absolute img-fluid w-100 h-100" src="../img/design_web.jpg" style="object-fit: cover;" alt="" title="creación de sitios">
                     </div>
                 </div>
             </div>
@@ -109,20 +109,20 @@
     <!--Inicio de Servicios-->
     <div class="container">
 		<div class="row">
-			<div align="center" class="col-md-4">
-                <img src="../img/serv1.jpg" class="d-block w-100" alt="..." width="100" height="350"><br>
+			<div align="center" class="col-md-4 col-6">
+                <img src="../img/serv1.jpg" class="d-block w-100" alt="..." title="diseño web" width="100" height="350"><br>
                 <h2><b>Asesoramiento para actualizar sitios web</b></h2><br>
                 <h4 align="justify">Te explicamos como utilizar de forma correcta tu sitio web a nivel técnico, de contenido y de diseño, que son los 3 pilares esenciales de tu plan de actualización web.</h4>
                 <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Ver más</a>
 			</div>                                                                          
-            <div class="col-md-4">
-                <img src="../img/serv2.png" class="d-block w-100" alt="..." width="100" height="350"><br>
+            <div class="col-md-4 col-6">
+                <img src="../img/serv2.png" class="d-block w-100" alt="..." title="Te enseñamos a manejar tu sitio" width="100" height="350"><br>
                 <h2><b>Te capacitamos para dar un mejor manejo de tu sitio web</b></h2><br>
                 <h4 align="justify">Ofreciendo amplio servicio para darle un plus a tu proyecto, tu marca tendrá más visibilidad.</h4>
                 <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Ver más</a>
 			</div>
-            <div class="col-md-4">
-                <img src="../img/serv3.png" class="d-block w-100" alt="..." width="100" height="350"><br>
+            <div class="col-md-4 col-6">
+                <img src="../img/serv3.png" class="d-block w-100" alt="..." title="creacion de sitios web" width="100" height="350"><br>
                 <h2><b>Creamos todo tipo de sitio web</b></h2>
                 <h4 align="justify">Te brindamos herramientas de seguridad para que puedas evitar engaños y proteger tus dispositivos, redes sociales y datos personales.</h4>
                 <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Ver más</a>
@@ -132,14 +132,14 @@
 
     <div align="center" class="container">
 		<div class="row">
-			<div class="col-md-6">
-                <img src="../img/serv4.jpg" class="d-block w-100" alt="..." width="100" height="350"><br>
+			<div class="col-md-6 col-6">
+                <img src="../img/serv4.jpg" class="d-block w-100" alt="..." title="proteccion al sitio web" width="100" height="350"><br>
                 <h2><b>Le brindamos protección a tu sitio web</b></h2><br>
                 <h4 align="justify">Si necesitas a hacer crecer tu negocio y te planeas buscar un socio, aquí te ofrecemos el mejor servicio para ello.</h4>
                 <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Ver más</a>
 			</div>
-            <div class="col-md-6">
-                <img src="../img/serv5.jpg" class="d-block w-100" alt="..." width="100" height="350"><br>
+            <div class="col-md-6 col-6">
+                <img src="../img/serv5.jpg" class="d-block w-100" alt="..." title="enlazamos tu sitio con " width="100" height="350"><br>
                 <h2><b>Enlazamos tu sitio web con aliados estrátegicos</b></h2><br>
                 <h4 align="justify">Para crear sitios webs: Ofrecen opciones para todo tipo de webs, pero resultn ideales para la creación de blogs o sitios webs de contenido.</h4>
                 <a href="detalle_servicios.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Ver más</a>
@@ -151,8 +151,8 @@
     <!--Paralax-->
     <div align="center" class="container">
 	    <div class="row">
-		    <div class="col-md-12">	
-			    <img src="../img/paralax.png" alt="" width="1200" height="500"><br><br>
+		    <div class="col-md-12 d-none d-sm-block">	
+			    <img src="../img/paralax.png" alt="" title="creación de sitios" width="1200" height="500"><br><br>
                 <a href="contactos.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Escríbenos</a>
 		    </div>
 	    </div>

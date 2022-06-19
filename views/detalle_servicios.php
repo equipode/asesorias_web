@@ -1,6 +1,6 @@
 <!--INGRID-->
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="utf-8">
@@ -86,6 +86,26 @@
 		</div>
     </div><br>
 
+    <!-- Caracteristicas -->
+    <div class="container">
+		<div class="row">
+			<div align="center" class="d-none d-sm-block col-md-6">
+				<h1><b>Caracteristicas</b></h1><br>
+                <ul align="left">
+                    <li>El producto es entregado a tiempo</li>
+                    <li>Somos responsables con nuestro programas </li>
+                    <li>Nos caracterizamos por ofrecer un excelente servicio</li>
+                    <li>Nuestros servicios son de alta calidad</li>
+                </ul>
+          
+			</div>
+<!-- Video -->
+            <div class="d-none d-sm-block col-md-6">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/a7196_krAY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+		</div>
+    </div><br>
+
 
  <!-- detalle_costo_2 -->
          <div class="container">
@@ -101,6 +121,26 @@
                 <a class="btn btn-primary" href="cotizacion.php" role="button">Contratar</a>
 			</div>
 
+		</div>
+    </div><br>
+
+    <!-- Caracteristicas -->
+    <div class="container">
+		<div class="row">
+			<div align="center" class="d-none d-sm-block col-md-6">
+				<h1><b>Caracteristicas</b></h1><br>
+                <ul align="left">
+                    <li>El producto es entregado a tiempo</li>
+                    <li>Somos responsables con nuestro programas </li>
+                    <li>Nos caracterizamos por ofrecer un excelente servicio</li>
+                    <li>Nuestros servicios son de alta calidad</li>
+                </ul>
+          
+			</div>
+<!-- Video -->
+            <div class="d-none d-sm-block col-md-6">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/pPVRKR5bKe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
 		</div>
     </div><br>
 
@@ -121,6 +161,26 @@
 		</div>
     </div><br>
 
+    <!-- Caracteristicas -->
+    <div class="container">
+		<div class="row">
+			<div align="center" class="d-none d-sm-block col-md-6">
+				<h1><b>Caracteristicas</b></h1><br>
+                <ul align="left">
+                    <li>El producto es entregado a tiempo</li>
+                    <li>Somos responsables con nuestro programas </li>
+                    <li>Nos caracterizamos por ofrecer un excelente servicio</li>
+                    <li>Nuestros servicios son de alta calidad</li>
+                </ul>
+          
+			</div>
+<!-- Video -->
+            <div class="d-none d-sm-block col-md-6">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/sW9lRl3TIq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+		</div>
+    </div><br>
+
      <!-- detalle_costo_4 -->
     <div class="container">
 		<div class="row">
@@ -135,6 +195,26 @@
                 <a class="btn btn-primary" href="cotizacion.php" role="button">Contratar</a>
 			</div>
 
+		</div>
+    </div><br>
+
+    <!-- Caracteristicas -->
+    <div class="container">
+		<div class="row">
+			<div align="center" class="d-none d-sm-block col-md-6">
+				<h1><b>Caracteristicas</b></h1><br>
+                <ul align="left">
+                    <li>El producto es entregado a tiempo</li>
+                    <li>Somos responsables con nuestro programas </li>
+                    <li>Nos caracterizamos por ofrecer un excelente servicio</li>
+                    <li>Nuestros servicios son de alta calidad</li>
+                </ul>
+          
+			</div>
+<!-- Video -->
+            <div class="d-none d-sm-block col-md-6">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/y5YOIoz9NWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
 		</div>
     </div><br>
 
@@ -162,7 +242,7 @@
  <!-- Caracteristicas -->
     <div class="container">
 		<div class="row">
-			<div align="center" class="col-md-6">
+			<div align="center" class="d-none d-sm-block col-md-6">
 				<h1><b>Caracteristicas</b></h1><br>
                 <ul align="left">
                     <li>El producto es entregado a tiempo</li>
@@ -173,16 +253,19 @@
           
 			</div>
 <!-- Video -->
-            <div class="col-md-6">
-            <iframe width="640" height="360" src="https://www.youtube.com/embed/0EO6Cmf5EXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="d-none d-sm-block col-md-6">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/ZmsJtNadT_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 		</div>
     </div><br>
 
-    <div class="container">
-		<div class="row">
-			<div  class="col-md-12">
-            <div class="container">
+<div class="container">
+<div class="row">
+<div align="center" class="col-md-12">
+<h1><b>Testimonios</b></h1>
+</div>
+</div>
+</div>
     
 
 <!--Slider-->

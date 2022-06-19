@@ -1,14 +1,14 @@
 <!--DIEGO-->
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="utf-8">
-    <title>Solartec - Renewable Energy Website Template</title>
+    <title>Servicios de paquetes</title>
     <link rel="icon" href="../img/logo.png">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    <meta content="" name="keywords" content="detalles, paquetes, paginas">
+    <meta content="" name="description" content="Nuestros paquetes te ayudan a empreder y a tener exito con tu sitio web">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -82,35 +82,35 @@
 		<div class="row">
 			<div align="center" class="col-md-4">
             <img src="../img/basico.png" class="d-block w-100" alt="..." width="300" height="700">
-            <a href="detalle_paquetes.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
-			</div>
+            <a href="detalle_paquetes.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft" title="paquete basico">Detalles</a>
+			</div><br>
             <div align="center" class="col-md-4">
             <img src="../img/popular.png" class="d-block w-100" alt="..." width="300" height="700">
-            <a href="detalle_paquetes.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
-			</div>
+            <a href="detalle_paquetes.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft"title="paquete popular">Detalles</a>
+			</div><br>
             <div align="center" class="col-md-4">
             <img src="../img/modern.png" class="d-block w-100" alt="..." width="300" height="700">
-            <a href="detalle_paquetes.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
-			</div>
+            <a href="detalle_paquetes.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft"title="paquete modern">Detalles</a>
+			</div><br>
 		</div>
-    </div><br>
+    </div><br><br>
 
     <div class="container">
 		<div class="row">
 			<div align="center" class="col-md-4">
             <img src="../img/premium.png" class="d-block w-100" alt="..." width="300" height="700">
-            <a href="detalle_paquetes.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
-			</div>
+            <a href="detalle_paquetes.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft"title="paquete premium">Detalles</a>
+			</div><br>
             <div align="center" class="col-md-4">
             <img src="../img/dinamico.png" class="d-block w-100" alt="..." width="300" height="700">
-            <a href="detalle_paquetes.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
-			</div>
+            <a href="detalle_paquetes.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft"title="paquete dinamico">Detalles</a>
+			</div><br>
             <div align="center" class="col-md-4">
             <img src="../img/business.png" class="d-block w-100" alt="..." width="300" height="700">
-            <a href="detalle_paquetes.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft">Detalles</a>
-			</div>
+            <a href="detalle_paquetes.php" class="btn btn-primary rounded-pill py-3 px-5 animated slidenlnLeft"title="paquete business">Detalles</a>
+			</div><br>
 		</div>
-    </div><br><br>
+    </div><br><br><br>
     <!--Fin Paquetes de servicios-->
 
     <!--Titulo Condiciones-->
@@ -134,7 +134,7 @@
                     <li>En caso de agregar detalles adicionales a las páginas, avisar con anticipación y debe a hacer otro depósito además del acordado</li>
                 </ul>
 			</div>
-            <div class="col-md-6">
+            <div class="col-md-6 d-none d-sm-block">
                 <ul align="justify">
                     <li>Elije tus métodos de pagos y tarifas de envíos </li>
                     <li>Se debe a hacer un contrato para empezar el desarrollo del sitio web</li>
