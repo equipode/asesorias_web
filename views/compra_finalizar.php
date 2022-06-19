@@ -240,13 +240,22 @@
                     <label for="N"></label><br><br><br>
                     <a class="btn btn-primary" href="#" role="button">Bancolombia</a><br><br>
                     <a class="btn btn-primary" href="#" role="button">PayPal</a><br><br>
-                    <a class="btn btn-primary" href="#" role="button">Pagar</a>
+                    <a class="btn btn-primary" href="https://drive.google.com/file/d/1ejX0L-lvuc2bphGc6DdimpbuME8pDz2U/view?usp=sharing" role="button">Pagar</a>
                 </form><br>
 
             </div>
 
         </div>
     </div>
+<!-- formulario
+    <div class="container">
+        <div class="row">
+            <div col md-12>
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSckL2EZUKKLLt9fgJpoQ1N-UxhgrRvvF9ev9ZoGsft3vx139Q/viewform?embedded=true" width="640" height="691" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+            </div> 
+        </div>
+    </div>
+            -->
 
     <!-- *********************************************** -->
     <!-- FIN ZONA DE CONTENIDO -->
