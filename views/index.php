@@ -7,8 +7,8 @@
     <title>Home</title>
     <link rel="icon" href="../img/logo.png">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords" content="contactos, valores corporativos, detalles, paquetes, paginas, sitios web, calidad, contratar, cotizar, obsequios, correo, telefono, ubicacion, email, mision, vision, equipo ">
-    <meta content="" name="description" content="Contrata con asesorias web para el desarrollo y creacion de tu sitios web, obten lo mejor con nuestros paquetes de servicios. Somos un equipo con grandes valores corporativos.">
+    <meta name="keywords" content="contactos, valores corporativos, detalles, paquetes, paginas, sitios web, calidad, contratar, cotizar, obsequios, correo, telefono, ubicacion, email, mision, vision, equipo ">
+    <meta name="description" content="Contrata con asesorias web para el desarrollo y creacion de tu sitios web, obten lo mejor con nuestros paquetes de servicios. Somos un equipo con grandes valores corporativos.">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
