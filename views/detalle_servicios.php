@@ -92,10 +92,10 @@
 			<div align="center" class="d-none d-sm-block col-md-6">
 				<h1><b>Caracteristicas</b></h1><br>
                 <ul align="left">
-                    <li>El producto es entregado a tiempo</li>
-                    <li>Somos responsables con nuestro programas </li>
+                    <li>Actualizamos tu sitio web desde el ordenador</li>
+                    <li>Las actualizaciones seran hasta la ultima versión </li>
                     <li>Nos caracterizamos por ofrecer un excelente servicio</li>
-                    <li>Nuestros servicios son de alta calidad</li>
+                    <li>Mejoramos tu pagina para que lusca mejor</li>
                 </ul>
           
 			</div>
@@ -130,10 +130,9 @@
 			<div align="center" class="d-none d-sm-block col-md-6">
 				<h1><b>Caracteristicas</b></h1><br>
                 <ul align="left">
-                    <li>El producto es entregado a tiempo</li>
-                    <li>Somos responsables con nuestro programas </li>
-                    <li>Nos caracterizamos por ofrecer un excelente servicio</li>
-                    <li>Nuestros servicios son de alta calidad</li>
+                    <li>Aprenderas a utilizar las herramientas para tu sitio</li>
+                    <li>Las herramientas te ayudaran a darle un mejor toque a tu sitio web</li>
+                    <li>Te ayudará a que tu sitio tenga mejor capacidad</li>
                 </ul>
           
 			</div>
@@ -167,10 +166,9 @@
 			<div align="center" class="d-none d-sm-block col-md-6">
 				<h1><b>Caracteristicas</b></h1><br>
                 <ul align="left">
-                    <li>El producto es entregado a tiempo</li>
-                    <li>Somos responsables con nuestro programas </li>
-                    <li>Nos caracterizamos por ofrecer un excelente servicio</li>
-                    <li>Nuestros servicios son de alta calidad</li>
+                    <li>Te brindamos la mejor seguridad a tu web</li>
+                    <li>Las protecciones te ayudan a evitar engaños en tu web</li>
+                    <li>Protege tu web desde aquí</li>
                 </ul>
           
 			</div>
@@ -204,10 +202,9 @@
 			<div align="center" class="d-none d-sm-block col-md-6">
 				<h1><b>Caracteristicas</b></h1><br>
                 <ul align="left">
-                    <li>El producto es entregado a tiempo</li>
-                    <li>Somos responsables con nuestro programas </li>
-                    <li>Nos caracterizamos por ofrecer un excelente servicio</li>
-                    <li>Nuestros servicios son de alta calidad</li>
+                    <li>Los sitios necesitan crecer, y que mejor que con un aliado estrátegico</li>
+                    <li>¿Necesitas un socio? Llegaste al lugar correcto</li>
+                    <li>Te entregamos la persona perfecta para tu sitio web</li>
                 </ul>
           
 			</div>
