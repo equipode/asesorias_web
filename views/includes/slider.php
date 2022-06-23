@@ -4,16 +4,16 @@
 			<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
 			  <div class="carousel-inner">
 			    	<div class="carousel-item active">
-			      		<img src="../img/carousel1.jpg" class="d-block w-100" alt="..." width="200" height="600">
+			      		<img src="img/carousel1.jpg" class="d-block w-100" alt="..." width="200" height="600">
 			    	</div>
 			    	<div class="carousel-item">
-			      		<img src="../img/carousel2.jpg" class="d-block w-100" alt="..." width="200" height="600">
+			      		<img src="img/carousel2.jpg" class="d-block w-100" alt="..." width="200" height="600">
 			    	</div>
 			    	<div class="carousel-item">
-			      		<img src="../img/carousel3.jpg" class="d-block w-100" alt="..." width="200" height="600">
+			      		<img src="img/carousel3.jpg" class="d-block w-100" alt="..." width="200" height="600">
 			    	</div>
                     <div class="carousel-item">
-			      		<img src="../img/carousel4.jpg" class="d-block w-100" alt="..." width="200" height="600">
+			      		<img src="img/carousel4.jpg" class="d-block w-100" alt="..." width="200" height="600">
 			    	</div>
 			 	</div>
 			  	<button class="carousel-control-prev" type="button" data-bs-target="				#carouselExampleControls" data-bs-slide="prev">

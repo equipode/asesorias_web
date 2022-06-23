@@ -2,7 +2,7 @@
     <div class="container py-5">
         <div class="row g-5">
             <div class="col-lg-3 col-md-6">
-                <img src="../img/logo.png" class="d-block w-100" alt="..." width="300" height="90"><br>
+                <img src="img/logo.png" class="d-block w-100" alt="..." width="300" height="90"><br>
                 <h5 class="text-white mb-4">Asesorías sitios web</h5>
                 <a href="contactos.php" class="nav-item nav-link">Contactos</a>
 

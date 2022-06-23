@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <title>Carrito</title>
-    <link rel="icon" href="../img/logo.png">
+    <link rel="icon" href="img/logo.png">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="descuento, cupon" name="keywords">
     <meta content="resumen de la compra" name="description">
