@@ -25,45 +25,39 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
     <!-- Libraries Stylesheet -->
-    <link href="../templates/solartec/lib/animate/animate.min.css" rel="stylesheet">
-    <link href="../templates/solartec/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="../templates/solartec/lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+    <link href="templates/solartec/lib/animate/animate.min.css" rel="stylesheet">
+    <link href="templates/solartec/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="templates/solartec/lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="../templates/solartec/css/bootstrap.min.css" rel="stylesheet">
+    <link href="templates/solartec/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="../templates/solartec/css/style.css" rel="stylesheet">
+    <link href="templates/solartec/css/style.css" rel="stylesheet">
 </head>
 
 <body>
     <!-- Spinner Start -->
     <!-- <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
-        <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
-            <span class="sr-only">Loading...</span>
-        </div>
-    </div> -->
+    <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
+        <span class="sr-only">Loading...</span>
+    </div>
+</div> -->
     <!-- Spinner End -->
 
-
-    <!-- Topbar Start -->
-    <?php 
-    	include "includes/toplinks.php";
-    ?>
-    <!-- Topbar End -->
 
 
     <!-- Navbar Start -->
     <?php 
-    	include "includes/menu.php";
-    ?>
+    include "views/includes/menu.php";
+?>
     <!-- Navbar End -->
 
 
     <!-- Carousel Start -->
     <?php 
-    	include "includes/slider.php";
-    ?>
+    include "views/includes/slider.php";
+?>
     <!-- Carousel End -->
 
     <!-- *********************************************** -->
@@ -166,7 +160,7 @@
                     <input type="text" id="N" name="Nombre" size="30">
                 </form><br>
 
-              <!--Datos prsonales -->
+                <!--Datos prsonales -->
                 <FONT COLOR="black"><b>Datos personales</b></FONT>
                 <br><br>
                 <form name="Nombre">
@@ -240,14 +234,16 @@
                     <label for="N"></label><br><br><br>
                     <a class="btn btn-primary" href="#" role="button">Bancolombia</a><br><br>
                     <a class="btn btn-primary" href="#" role="button">PayPal</a><br><br>
-                    <a class="btn btn-primary" href="https://drive.google.com/file/d/1ejX0L-lvuc2bphGc6DdimpbuME8pDz2U/view?usp=sharing" role="button">Pagar</a>
+                    <a class="btn btn-primary"
+                        href="https://drive.google.com/file/d/1ejX0L-lvuc2bphGc6DdimpbuME8pDz2U/view?usp=sharing"
+                        role="button">Pagar</a>
                 </form><br>
 
             </div>
 
         </div>
     </div>
-<!-- formulario
+    <!-- formulario
     <div class="container">
         <div class="row">
             <div col md-12>
@@ -263,7 +259,7 @@
 
     <!-- Footer Start -->
     <?php 
-    	include "includes/footer.php";
+    	include "views/includes/footer.php";
     ?>
     <!-- Footer End -->
 
@@ -276,16 +272,16 @@
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="../templates/solartec/lib/wow/wow.min.js"></script>
-    <script src="../templates/solartec/lib/easing/easing.min.js"></script>
-    <script src="../templates/solartec/lib/waypoints/waypoints.min.js"></script>
-    <script src="../templates/solartec/lib/counterup/counterup.min.js"></script>
-    <script src="../templates/solartec/lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="../templates/solartec/lib/isotope/isotope.pkgd.min.js"></script>
-    <script src="../templates/solartec/lib/lightbox/js/lightbox.min.js"></script>
+    <script src="templates/solartec/lib/wow/wow.min.js"></script>
+    <script src="templates/solartec/lib/easing/easing.min.js"></script>
+    <script src="templates/solartec/lib/waypoints/waypoints.min.js"></script>
+    <script src="templates/solartec/lib/counterup/counterup.min.js"></script>
+    <script src="templates/solartec/lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="templates/solartec/lib/isotope/isotope.pkgd.min.js"></script>
+    <script src="templates/solartec/lib/lightbox/js/lightbox.min.js"></script>
 
     <!-- Template Javascript -->
-    <script src="../templates/solartec/js/main.js"></script>
+    <script src="templates/solartec/js/main.js"></script>
 </body>
 
 </html>

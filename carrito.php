@@ -25,17 +25,16 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
     <!-- Libraries Stylesheet -->
-    <link href="../templates/solartec/lib/animate/animate.min.css" rel="stylesheet">
-    <link href="../templates/solartec/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="../templates/solartec/lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+    <link href="templates/solartec/lib/animate/animate.min.css" rel="stylesheet">
+    <link href="templates/solartec/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="templates/solartec/lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="../templates/solartec/css/bootstrap.min.css" rel="stylesheet">
+    <link href="templates/solartec/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="../templates/solartec/css/style.css" rel="stylesheet">
+    <link href="templates/solartec/css/style.css" rel="stylesheet">
 </head>
-
 
 <body>
     <!-- Spinner Start -->
@@ -47,23 +46,17 @@
     <!-- Spinner End -->
 
 
-    <!-- Topbar Start -->
-    <?php 
-    	include "includes/toplinks.php";
-    ?>
-    <!-- Topbar End -->
-
 
     <!-- Navbar Start -->
     <?php 
-    	include "includes/menu.php";
+    	include "views/includes/menu.php";
     ?>
     <!-- Navbar End -->
 
 
     <!-- Carousel Start -->
     <?php 
-    	include "includes/slider.php";
+    	include "views/includes/slider.php";
     ?>
     <!-- Carousel End -->
 
@@ -204,7 +197,8 @@
                     </label>
                     <input type="double" id="N" name="Nombre" size="10">
                 </form><br><br>
-                <a class="btn btn-primary" href="compra_finalizar.php" role="button" title="enlace a compra finalizar">Finalizar compra</a>
+                <a class="btn btn-primary" href="compra_finalizar.php" role="button"
+                    title="enlace a compra finalizar">Finalizar compra</a>
             </div>
         </div>
     </div>
@@ -215,7 +209,7 @@
 
     <!-- Footer Start -->
     <?php 
-    	include "includes/footer.php";
+    	include "views/includes/footer.php";
     ?>
     <!-- Footer End -->
 
@@ -228,16 +222,16 @@
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="../templates/solartec/lib/wow/wow.min.js"></script>
-    <script src="../templates/solartec/lib/easing/easing.min.js"></script>
-    <script src="../templates/solartec/lib/waypoints/waypoints.min.js"></script>
-    <script src="../templates/solartec/lib/counterup/counterup.min.js"></script>
-    <script src="../templates/solartec/lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="../templates/solartec/lib/isotope/isotope.pkgd.min.js"></script>
-    <script src="../templates/solartec/lib/lightbox/js/lightbox.min.js"></script>
+    <script src="templates/solartec/lib/wow/wow.min.js"></script>
+    <script src="templates/solartec/lib/easing/easing.min.js"></script>
+    <script src="templates/solartec/lib/waypoints/waypoints.min.js"></script>
+    <script src="templates/solartec/lib/counterup/counterup.min.js"></script>
+    <script src="templates/solartec/lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="templates/solartec/lib/isotope/isotope.pkgd.min.js"></script>
+    <script src="templates/solartec/lib/lightbox/js/lightbox.min.js"></script>
 
     <!-- Template Javascript -->
-    <script src="../templates/solartec/js/main.js"></script>
+    <script src="templates/solartec/js/main.js"></script>
 </body>
 
 </html>
