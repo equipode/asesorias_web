@@ -97,45 +97,21 @@
                           <label for="N"></label>
                           <input type="text" id="N" name="Nombre" size="30">
                          -->
-                            <a class="btn btn-primary" href="#" role="button">Creamos todo tipo de sitio web</a>
+                            Creamos todo tipo de sitio web
                         </td>
                         <td>
                             <!--
                           <label for="N"></label>
                           <input type="text" id="N" name="Nombre" size="30">
                         -->
-                            <a class="btn btn-primary" href="#" role="button">200.000</a>
+                            200.000
                         </td>
                         <td>
                             <!--
                           <label for="N"></label>
                           <input type="text" id="N" name="Nombre" size="30">
                         -->
-                            <a class="btn btn-primary" href="#" role="button">2.000</a>
-                        </td>
-                    </tr>
-
-                    <tr>
-                        <td>
-                            <!--
-                          <label for="N"></label>
-                          <input type="text" id="N" name="Nombre" size="30">
-                        -->
-                            <a class="btn btn-primary" href="#" role="button">Le brindamos protección a tu sitio web</a>
-                        </td>
-                        <td>
-                            <!--
-                          <label for="N"></label>
-                          <input type="text" id="N" name="Nombre" size="30">
-                        -->
-                            <a class="btn btn-primary" href="#" role="button">80.000</a>
-                        </td>
-                        <td>
-                            <!--
-                          <label for="N"></label>
-                          <input type="text" id="N" name="Nombre" size="30">
-                        -->
-                            <a class="btn btn-primary" href="#" role="button">1000</a>
+                            2.000
                         </td>
                     </tr>
 
@@ -145,22 +121,45 @@
                           <label for="N"></label>
                           <input type="text" id="N" name="Nombre" size="30">
                         -->
-                            <a class="btn btn-primary" href="#" role="button">Enlazamos tu sitio web con aliados
-                                estrátegicos</a>
+                            Le brindamos protección a tu sitio web
                         </td>
                         <td>
                             <!--
                           <label for="N"></label>
                           <input type="text" id="N" name="Nombre" size="30">
                         -->
-                            <a class="btn btn-primary" href="#" role="button">60.000</a>
+                            80.000
                         </td>
                         <td>
                             <!--
                           <label for="N"></label>
                           <input type="text" id="N" name="Nombre" size="30">
                         -->
-                            <a class="btn btn-primary" href="#" role="button">500</a>
+                            1000
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>
+                            <!--
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        -->
+                            Enlazamos tu sitio web con aliados estrátegicos
+                        </td>
+                        <td>
+                            <!--
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        -->
+                            60.000
+                        </td>
+                        <td>
+                            <!--
+                          <label for="N"></label>
+                          <input type="text" id="N" name="Nombre" size="30">
+                        -->
+                            500
                         </td>
 
                     </tr>
