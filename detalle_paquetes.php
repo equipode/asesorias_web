@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <title>Detalle de paquetes</title>
-    <link rel="icon" href="../img/logo.png">
+    <link rel="icon" href="img/logo.png">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords" content="sitios web, calidad, contratar, cotizar, obsequios">
     <meta content="" name="description"
@@ -222,7 +222,7 @@
         <div class="row">
             <div align="center" class="col-md-6">
                 <h1><b>Sitios web dinamico</b></h1><br>
-                <h2 align="left"><b>Resumen: Con el paquete dianmico puedes aportar una mejor experiencia a tus usuarios
+                <h2 align="left"><b>Resumen: Con el paquete dinámico puedes aportar una mejor experiencia a tus usuarios
                         <br>¡OBTENLO YA!</b></h2>
             </div>
             <div align="center" class="col-md-6">
@@ -260,7 +260,7 @@
         <div class="row">
             <div align="center" class="col-md-6">
                 <h1><b>Sitios web business</b></h1><br>
-                <h2 align="left"><b>Resumen:Con el paquet bussiness damos mayor proyeccion empresarial y visualizacion
+                <h2 align="left"><b>Resumen: Con el paquete bussiness, te damos mayor proyeccion empresarial y visualizacion
                         <br>¡OBTENLO YA!</b></h2>
             </div>
             <div align="center" class="col-md-6">

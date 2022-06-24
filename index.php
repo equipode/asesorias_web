@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <title>Home</title>
-    <link rel="icon" href="../img/logo.png">
+    <link rel="icon" href="img/logo.png">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta name="keywords"
         content="contactos, valores corporativos, detalles, paquetes, paginas, sitios web, calidad, contratar, cotizar, obsequios, correo, telefono, ubicacion, email, mision, vision, equipo ">

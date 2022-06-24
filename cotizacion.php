@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <title>Cotizacion</title>
-    <link rel="icon" href="../img/logo.png">
+    <link rel="icon" href="img/logo.png">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="cotizar, servicios, contractar" name="keywords">
     <meta content="se cotiza los servicios a contractar" name="description">

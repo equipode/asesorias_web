@@ -28,12 +28,15 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <h5 class="text-white mb-4">Medios de comunicación</h5>
+                <h5 class="text-white mb-4">Redes sociales</h5>
                 <div class="d-flex pt-2">
                     <a class="btn btn-square btn-outline-light btn-social" href="https://twitter.com/?lang=es"><i class="fab fa-twitter"></i></a>
                     <a class="btn btn-square btn-outline-light btn-social" href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
                     <a class="btn btn-square btn-outline-light btn-social" href="https://www.instagram.com/?hl=es"><i class="fab fa-instagram"></i></a>
                     <a class="btn btn-square btn-outline-light btn-social" href="https://web.whatsapp.com/"><i class="fab fa-whatsapp"></i></a>
-                </div>
+                </div><br>
+                <h5 class="text-white mb-4">Asesorias sitios web</h5></h5></h5>
+                <a href="https://asesoriasswebs.000webhostapp.com/"> URL </a>
             </div>
         </div>
     </div>

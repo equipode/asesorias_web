@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <title>Quienes Somos</title>
-    <link rel="icon" href="../img/logo.png">
+    <link rel="icon" href="img/logo.png">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="objetivo, mision, vision, valores corporativos, equipo" name="keywords">
     <meta content="conoce quienes somos, ojetivos, mision, vision y valores de nuestra empresa" name="description">

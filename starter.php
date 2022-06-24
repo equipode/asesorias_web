@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <title>Solartec - Renewable Energy Website Template</title>
-    <link rel="icon" href="../img/logo.png">
+    <link rel="icon" href="img/logo.png">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
