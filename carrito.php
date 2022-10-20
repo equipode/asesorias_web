@@ -88,7 +88,7 @@
                             <FONT COLOR="black"><b>Valor</b></FONT>
                         </th>
                         <th>
-                            <FONT COLOR="black"><b>Descuento</b></FONT>
+                            <FONT COLOR="black"><b>Descuentosdf</b></FONT>
                         </th>
                     </tr>
                     <tr>
@@ -97,7 +97,7 @@
                           <label for="N"></label>
                           <input type="text" id="N" name="Nombre" size="30">
                          -->
-                            Creamos todo tipo de sitio web
+                            Creamos todo tipo de sitiosdff web
                         </td>
                         <td>
                             <!--
