@@ -97,7 +97,7 @@
                           <label for="N"></label>
                           <input type="text" id="N" name="Nombre" size="30">
                          -->
-                            Creamos todo tipo de sitiosdff web
+                            Creamos todo tipo de sitios web
                         </td>
                         <td>
                             <!--
